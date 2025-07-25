@@ -1,0 +1,2065 @@
+When,Province,Earnings
+01/01/2001,NAICS,
+02/01/2001,NAICS,
+03/01/2001,NAICS,
+04/01/2001,NAICS,
+05/01/2001,NAICS,
+06/01/2001,NAICS,
+07/01/2001,NAICS,
+08/01/2001,NAICS,
+09/01/2001,NAICS,
+10/01/2001,NAICS,
+11/01/2001,NAICS,
+12/01/2001,NAICS,
+01/01/2002,NAICS,
+02/01/2002,NAICS,
+03/01/2002,NAICS,
+04/01/2002,NAICS,
+05/01/2002,NAICS,
+06/01/2002,NAICS,
+07/01/2002,NAICS,
+08/01/2002,NAICS,
+09/01/2002,NAICS,
+10/01/2002,NAICS,
+11/01/2002,NAICS,
+12/01/2002,NAICS,
+01/01/2003,NAICS,
+02/01/2003,NAICS,
+03/01/2003,NAICS,
+04/01/2003,NAICS,
+05/01/2003,NAICS,
+06/01/2003,NAICS,
+07/01/2003,NAICS,
+08/01/2003,NAICS,
+09/01/2003,NAICS,
+10/01/2003,NAICS,
+11/01/2003,NAICS,
+12/01/2003,NAICS,
+01/01/2004,NAICS,
+02/01/2004,NAICS,
+03/01/2004,NAICS,
+04/01/2004,NAICS,
+05/01/2004,NAICS,
+06/01/2004,NAICS,
+07/01/2004,NAICS,
+08/01/2004,NAICS,
+09/01/2004,NAICS,
+10/01/2004,NAICS,
+11/01/2004,NAICS,
+12/01/2004,NAICS,
+01/01/2005,NAICS,
+02/01/2005,NAICS,
+03/01/2005,NAICS,
+04/01/2005,NAICS,
+05/01/2005,NAICS,
+06/01/2005,NAICS,
+07/01/2005,NAICS,
+08/01/2005,NAICS,
+09/01/2005,NAICS,
+10/01/2005,NAICS,
+11/01/2005,NAICS,
+12/01/2005,NAICS,
+01/01/2006,NAICS,
+02/01/2006,NAICS,
+03/01/2006,NAICS,
+04/01/2006,NAICS,
+05/01/2006,NAICS,
+06/01/2006,NAICS,
+07/01/2006,NAICS,
+08/01/2006,NAICS,
+09/01/2006,NAICS,
+10/01/2006,NAICS,
+11/01/2006,NAICS,
+12/01/2006,NAICS,
+01/01/2007,NAICS,
+02/01/2007,NAICS,
+03/01/2007,NAICS,
+04/01/2007,NAICS,
+05/01/2007,NAICS,
+06/01/2007,NAICS,
+07/01/2007,NAICS,
+08/01/2007,NAICS,
+09/01/2007,NAICS,
+10/01/2007,NAICS,
+11/01/2007,NAICS,
+12/01/2007,NAICS,
+01/01/2008,NAICS,
+02/01/2008,NAICS,
+03/01/2008,NAICS,
+04/01/2008,NAICS,
+05/01/2008,NAICS,
+06/01/2008,NAICS,
+07/01/2008,NAICS,
+08/01/2008,NAICS,
+09/01/2008,NAICS,
+10/01/2008,NAICS,
+11/01/2008,NAICS,
+12/01/2008,NAICS,
+01/01/2009,NAICS,
+02/01/2009,NAICS,
+03/01/2009,NAICS,
+04/01/2009,NAICS,
+05/01/2009,NAICS,
+06/01/2009,NAICS,
+07/01/2009,NAICS,
+08/01/2009,NAICS,
+09/01/2009,NAICS,
+10/01/2009,NAICS,
+11/01/2009,NAICS,
+12/01/2009,NAICS,
+01/01/2010,NAICS,
+02/01/2010,NAICS,
+03/01/2010,NAICS,
+04/01/2010,NAICS,
+05/01/2010,NAICS,
+06/01/2010,NAICS,
+07/01/2010,NAICS,
+08/01/2010,NAICS,
+09/01/2010,NAICS,
+10/01/2010,NAICS,
+11/01/2010,NAICS,
+12/01/2010,NAICS,
+01/01/2011,NAICS,
+02/01/2011,NAICS,
+03/01/2011,NAICS,
+04/01/2011,NAICS,
+05/01/2011,NAICS,
+06/01/2011,NAICS,
+07/01/2011,NAICS,
+08/01/2011,NAICS,
+09/01/2011,NAICS,
+10/01/2011,NAICS,
+11/01/2011,NAICS,
+12/01/2011,NAICS,
+01/01/2012,NAICS,
+02/01/2012,NAICS,
+03/01/2012,NAICS,
+04/01/2012,NAICS,
+05/01/2012,NAICS,
+06/01/2012,NAICS,
+07/01/2012,NAICS,
+08/01/2012,NAICS,
+09/01/2012,NAICS,
+10/01/2012,NAICS,
+11/01/2012,NAICS,
+12/01/2012,NAICS,
+01/01/2013,NAICS,
+02/01/2013,NAICS,
+03/01/2013,NAICS,
+04/01/2013,NAICS,
+05/01/2013,NAICS,
+06/01/2013,NAICS,
+07/01/2013,NAICS,
+08/01/2013,NAICS,
+09/01/2013,NAICS,
+10/01/2013,NAICS,
+11/01/2013,NAICS,
+12/01/2013,NAICS,
+01/01/2014,NAICS,
+02/01/2014,NAICS,
+03/01/2014,NAICS,
+04/01/2014,NAICS,
+05/01/2014,NAICS,
+06/01/2014,NAICS,
+07/01/2014,NAICS,
+08/01/2014,NAICS,
+09/01/2014,NAICS,
+10/01/2014,NAICS,
+11/01/2014,NAICS,
+12/01/2014,NAICS,
+01/01/2015,NAICS,
+02/01/2015,NAICS,
+03/01/2015,NAICS,
+04/01/2015,NAICS,
+01/01/2001,Alberta,2682.16
+02/01/2001,Alberta,2682.08
+03/01/2001,Alberta,2673.96
+04/01/2001,Alberta,2686.84
+05/01/2001,Alberta,2657.8
+06/01/2001,Alberta,2702.88
+07/01/2001,Alberta,2691.84
+08/01/2001,Alberta,2694.4
+09/01/2001,Alberta,2768.72
+10/01/2001,Alberta,2772.52
+11/01/2001,Alberta,2703.2
+12/01/2001,Alberta,2696.36
+01/01/2002,Alberta,2732.44
+02/01/2002,Alberta,2754.16
+03/01/2002,Alberta,2770.28
+04/01/2002,Alberta,2783.84
+05/01/2002,Alberta,2723.4
+06/01/2002,Alberta,2773.84
+07/01/2002,Alberta,2779.68
+08/01/2002,Alberta,2737.88
+09/01/2002,Alberta,2787.56
+10/01/2002,Alberta,2779.0
+11/01/2002,Alberta,2811.68
+12/01/2002,Alberta,2818.4
+01/01/2003,Alberta,2812.88
+02/01/2003,Alberta,2884.04
+03/01/2003,Alberta,2834.76
+04/01/2003,Alberta,2864.64
+05/01/2003,Alberta,2790.24
+06/01/2003,Alberta,2868.8
+07/01/2003,Alberta,2847.76
+08/01/2003,Alberta,2884.04
+09/01/2003,Alberta,2936.48
+10/01/2003,Alberta,2867.52
+11/01/2003,Alberta,2928.44
+12/01/2003,Alberta,2891.6
+01/01/2004,Alberta,2922.36
+02/01/2004,Alberta,2962.96
+03/01/2004,Alberta,2987.44
+04/01/2004,Alberta,2905.84
+05/01/2004,Alberta,2942.52
+06/01/2004,Alberta,2926.0
+07/01/2004,Alberta,2926.36
+08/01/2004,Alberta,2987.16
+09/01/2004,Alberta,2974.92
+10/01/2004,Alberta,2987.24
+11/01/2004,Alberta,3045.64
+12/01/2004,Alberta,2988.92
+01/01/2005,Alberta,3058.6
+02/01/2005,Alberta,3143.0
+03/01/2005,Alberta,3014.44
+04/01/2005,Alberta,3074.28
+05/01/2005,Alberta,3111.84
+06/01/2005,Alberta,3078.88
+07/01/2005,Alberta,3097.28
+08/01/2005,Alberta,3155.28
+09/01/2005,Alberta,3190.88
+10/01/2005,Alberta,3226.68
+11/01/2005,Alberta,3254.72
+12/01/2005,Alberta,3182.92
+01/01/2006,Alberta,3236.8
+02/01/2006,Alberta,3282.52
+03/01/2006,Alberta,3242.12
+04/01/2006,Alberta,3283.76
+05/01/2006,Alberta,3298.56
+06/01/2006,Alberta,3236.12
+07/01/2006,Alberta,3269.88
+08/01/2006,Alberta,3268.8
+09/01/2006,Alberta,3309.16
+10/01/2006,Alberta,3370.28
+11/01/2006,Alberta,3288.88
+12/01/2006,Alberta,3381.44
+01/01/2007,Alberta,3419.84
+02/01/2007,Alberta,3415.36
+03/01/2007,Alberta,3402.8
+04/01/2007,Alberta,3430.52
+05/01/2007,Alberta,3398.92
+06/01/2007,Alberta,3499.12
+07/01/2007,Alberta,3515.04
+08/01/2007,Alberta,3453.36
+09/01/2007,Alberta,3557.36
+10/01/2007,Alberta,3593.4
+11/01/2007,Alberta,3546.92
+12/01/2007,Alberta,3562.8
+01/01/2008,Alberta,3539.0
+02/01/2008,Alberta,3691.28
+03/01/2008,Alberta,3676.16
+04/01/2008,Alberta,3667.04
+05/01/2008,Alberta,3596.04
+06/01/2008,Alberta,3688.68
+07/01/2008,Alberta,3622.52
+08/01/2008,Alberta,3689.6
+09/01/2008,Alberta,3780.92
+10/01/2008,Alberta,3719.56
+11/01/2008,Alberta,3810.36
+12/01/2008,Alberta,3786.56
+01/01/2009,Alberta,3780.0
+02/01/2009,Alberta,3853.52
+03/01/2009,Alberta,3848.4
+04/01/2009,Alberta,3740.0
+05/01/2009,Alberta,3771.84
+06/01/2009,Alberta,3810.76
+07/01/2009,Alberta,3760.12
+08/01/2009,Alberta,3731.72
+09/01/2009,Alberta,3805.16
+10/01/2009,Alberta,3791.88
+11/01/2009,Alberta,3842.48
+12/01/2009,Alberta,3789.76
+01/01/2010,Alberta,3846.76
+02/01/2010,Alberta,3939.28
+03/01/2010,Alberta,3965.24
+04/01/2010,Alberta,3961.08
+05/01/2010,Alberta,3932.12
+06/01/2010,Alberta,3969.72
+07/01/2010,Alberta,3934.88
+08/01/2010,Alberta,3988.48
+09/01/2010,Alberta,3976.68
+10/01/2010,Alberta,4028.08
+11/01/2010,Alberta,4045.6
+12/01/2010,Alberta,3978.92
+01/01/2011,Alberta,4120.92
+02/01/2011,Alberta,4169.92
+03/01/2011,Alberta,4110.16
+04/01/2011,Alberta,4130.64
+05/01/2011,Alberta,4127.24
+06/01/2011,Alberta,4096.48
+07/01/2011,Alberta,4065.68
+08/01/2011,Alberta,4162.12
+09/01/2011,Alberta,4105.64
+10/01/2011,Alberta,4204.56
+11/01/2011,Alberta,4198.68
+12/01/2011,Alberta,4147.92
+01/01/2012,Alberta,4211.16
+02/01/2012,Alberta,4269.56
+03/01/2012,Alberta,4233.84
+04/01/2012,Alberta,4242.8
+05/01/2012,Alberta,4163.72
+06/01/2012,Alberta,4254.08
+07/01/2012,Alberta,4296.2
+08/01/2012,Alberta,4322.84
+09/01/2012,Alberta,4326.84
+10/01/2012,Alberta,4385.64
+11/01/2012,Alberta,4321.4
+12/01/2012,Alberta,4354.48
+01/01/2013,Alberta,4277.4
+02/01/2013,Alberta,4454.04
+03/01/2013,Alberta,4422.56
+04/01/2013,Alberta,4414.72
+05/01/2013,Alberta,4393.84
+06/01/2013,Alberta,4390.84
+07/01/2013,Alberta,4398.12
+08/01/2013,Alberta,4372.56
+09/01/2013,Alberta,4459.48
+10/01/2013,Alberta,4475.16
+11/01/2013,Alberta,4548.84
+12/01/2013,Alberta,4574.8
+01/01/2014,Alberta,4463.52
+02/01/2014,Alberta,4590.76
+03/01/2014,Alberta,4621.72
+04/01/2014,Alberta,4590.92
+05/01/2014,Alberta,4537.32
+06/01/2014,Alberta,4604.88
+07/01/2014,Alberta,4552.84
+08/01/2014,Alberta,4622.72
+09/01/2014,Alberta,4639.56
+10/01/2014,Alberta,4654.76
+11/01/2014,Alberta,4643.08
+12/01/2014,Alberta,4638.4
+01/01/2015,Alberta,4635.16
+02/01/2015,Alberta,4705.28
+03/01/2015,Alberta,4692.92
+04/01/2015,Alberta,4602.44
+01/01/2001,British Columbia,2641.92
+02/01/2001,British Columbia,2637.32
+03/01/2001,British Columbia,2616.28
+04/01/2001,British Columbia,2628.6
+05/01/2001,British Columbia,2612.92
+06/01/2001,British Columbia,2645.96
+07/01/2001,British Columbia,2622.52
+08/01/2001,British Columbia,2614.2
+09/01/2001,British Columbia,2636.6
+10/01/2001,British Columbia,2657.72
+11/01/2001,British Columbia,2620.28
+12/01/2001,British Columbia,2634.88
+01/01/2002,British Columbia,2622.24
+02/01/2002,British Columbia,2660.96
+03/01/2002,British Columbia,2707.28
+04/01/2002,British Columbia,2717.76
+05/01/2002,British Columbia,2666.2
+06/01/2002,British Columbia,2668.08
+07/01/2002,British Columbia,2684.16
+08/01/2002,British Columbia,2645.72
+09/01/2002,British Columbia,2707.08
+10/01/2002,British Columbia,2666.6
+11/01/2002,British Columbia,2730.8
+12/01/2002,British Columbia,2749.92
+01/01/2003,British Columbia,2720.44
+02/01/2003,British Columbia,2762.6
+03/01/2003,British Columbia,2717.72
+04/01/2003,British Columbia,2743.24
+05/01/2003,British Columbia,2702.72
+06/01/2003,British Columbia,2760.48
+07/01/2003,British Columbia,2691.56
+08/01/2003,British Columbia,2750.72
+09/01/2003,British Columbia,2778.32
+10/01/2003,British Columbia,2750.52
+11/01/2003,British Columbia,2792.52
+12/01/2003,British Columbia,2749.12
+01/01/2004,British Columbia,2770.68
+02/01/2004,British Columbia,2800.44
+03/01/2004,British Columbia,2789.28
+04/01/2004,British Columbia,2759.36
+05/01/2004,British Columbia,2775.52
+06/01/2004,British Columbia,2758.88
+07/01/2004,British Columbia,2770.36
+08/01/2004,British Columbia,2796.88
+09/01/2004,British Columbia,2767.68
+10/01/2004,British Columbia,2824.28
+11/01/2004,British Columbia,2838.28
+12/01/2004,British Columbia,2822.2
+01/01/2005,British Columbia,2863.96
+02/01/2005,British Columbia,2904.6
+03/01/2005,British Columbia,2804.04
+04/01/2005,British Columbia,2893.08
+05/01/2005,British Columbia,2898.32
+06/01/2005,British Columbia,2870.36
+07/01/2005,British Columbia,2871.16
+08/01/2005,British Columbia,2887.32
+09/01/2005,British Columbia,2931.76
+10/01/2005,British Columbia,2908.28
+11/01/2005,British Columbia,2938.2
+12/01/2005,British Columbia,2924.16
+01/01/2006,British Columbia,2949.84
+02/01/2006,British Columbia,2983.68
+03/01/2006,British Columbia,2932.72
+04/01/2006,British Columbia,2977.4
+05/01/2006,British Columbia,2994.8
+06/01/2006,British Columbia,2969.4
+07/01/2006,British Columbia,2957.48
+08/01/2006,British Columbia,2935.0
+09/01/2006,British Columbia,2993.2
+10/01/2006,British Columbia,3006.56
+11/01/2006,British Columbia,2946.36
+12/01/2006,British Columbia,3066.64
+01/01/2007,British Columbia,3050.72
+02/01/2007,British Columbia,3034.64
+03/01/2007,British Columbia,3036.32
+04/01/2007,British Columbia,3064.92
+05/01/2007,British Columbia,3031.32
+06/01/2007,British Columbia,3126.6
+07/01/2007,British Columbia,3083.04
+08/01/2007,British Columbia,3047.56
+09/01/2007,British Columbia,3093.2
+10/01/2007,British Columbia,3111.88
+11/01/2007,British Columbia,3114.36
+12/01/2007,British Columbia,3131.2
+01/01/2008,British Columbia,3076.12
+02/01/2008,British Columbia,3179.72
+03/01/2008,British Columbia,3154.64
+04/01/2008,British Columbia,3169.36
+05/01/2008,British Columbia,3141.84
+06/01/2008,British Columbia,3168.6
+07/01/2008,British Columbia,3098.44
+08/01/2008,British Columbia,3172.56
+09/01/2008,British Columbia,3198.8
+10/01/2008,British Columbia,3164.72
+11/01/2008,British Columbia,3184.0
+12/01/2008,British Columbia,3159.4
+01/01/2009,British Columbia,3170.32
+02/01/2009,British Columbia,3174.84
+03/01/2009,British Columbia,3194.8
+04/01/2009,British Columbia,3154.52
+05/01/2009,British Columbia,3177.56
+06/01/2009,British Columbia,3175.4
+07/01/2009,British Columbia,3154.24
+08/01/2009,British Columbia,3141.28
+09/01/2009,British Columbia,3188.84
+10/01/2009,British Columbia,3212.24
+11/01/2009,British Columbia,3190.24
+12/01/2009,British Columbia,3237.44
+01/01/2010,British Columbia,3208.04
+02/01/2010,British Columbia,3251.12
+03/01/2010,British Columbia,3257.0
+04/01/2010,British Columbia,3258.56
+05/01/2010,British Columbia,3271.2
+06/01/2010,British Columbia,3242.92
+07/01/2010,British Columbia,3274.52
+08/01/2010,British Columbia,3268.96
+09/01/2010,British Columbia,3279.76
+10/01/2010,British Columbia,3320.84
+11/01/2010,British Columbia,3299.16
+12/01/2010,British Columbia,3338.88
+01/01/2011,British Columbia,3335.6
+02/01/2011,British Columbia,3368.84
+03/01/2011,British Columbia,3325.68
+04/01/2011,British Columbia,3369.08
+05/01/2011,British Columbia,3378.76
+06/01/2011,British Columbia,3348.36
+07/01/2011,British Columbia,3314.4
+08/01/2011,British Columbia,3344.28
+09/01/2011,British Columbia,3360.92
+10/01/2011,British Columbia,3390.64
+11/01/2011,British Columbia,3390.52
+12/01/2011,British Columbia,3419.2
+01/01/2012,British Columbia,3433.36
+02/01/2012,British Columbia,3446.56
+03/01/2012,British Columbia,3449.48
+04/01/2012,British Columbia,3445.96
+05/01/2012,British Columbia,3405.28
+06/01/2012,British Columbia,3483.88
+07/01/2012,British Columbia,3473.16
+08/01/2012,British Columbia,3439.68
+09/01/2012,British Columbia,3457.68
+10/01/2012,British Columbia,3485.68
+11/01/2012,British Columbia,3490.52
+12/01/2012,British Columbia,3520.92
+01/01/2013,British Columbia,3447.0
+02/01/2013,British Columbia,3524.8
+03/01/2013,British Columbia,3487.0
+04/01/2013,British Columbia,3494.0
+05/01/2013,British Columbia,3505.6
+06/01/2013,British Columbia,3471.08
+07/01/2013,British Columbia,3458.72
+08/01/2013,British Columbia,3455.76
+09/01/2013,British Columbia,3477.28
+10/01/2013,British Columbia,3470.24
+11/01/2013,British Columbia,3583.56
+12/01/2013,British Columbia,3593.16
+01/01/2014,British Columbia,3539.32
+02/01/2014,British Columbia,3592.12
+03/01/2014,British Columbia,3592.4
+04/01/2014,British Columbia,3581.6
+05/01/2014,British Columbia,3587.36
+06/01/2014,British Columbia,3552.12
+07/01/2014,British Columbia,3516.92
+08/01/2014,British Columbia,3591.6
+09/01/2014,British Columbia,3585.16
+10/01/2014,British Columbia,3607.44
+11/01/2014,British Columbia,3610.76
+12/01/2014,British Columbia,3616.44
+01/01/2015,British Columbia,3646.28
+02/01/2015,British Columbia,3676.8
+03/01/2015,British Columbia,3646.92
+04/01/2015,British Columbia,3596.6
+01/01/2001,Canada,2632.08
+02/01/2001,Canada,2623.16
+03/01/2001,Canada,2623.52
+04/01/2001,Canada,2616.36
+05/01/2001,Canada,2600.08
+06/01/2001,Canada,2632.24
+07/01/2001,Canada,2621.52
+08/01/2001,Canada,2622.16
+09/01/2001,Canada,2642.0
+10/01/2001,Canada,2644.44
+11/01/2001,Canada,2638.6
+12/01/2001,Canada,2645.52
+01/01/2002,Canada,2656.84
+02/01/2002,Canada,2650.6
+03/01/2002,Canada,2667.72
+04/01/2002,Canada,2698.4
+05/01/2002,Canada,2679.24
+06/01/2002,Canada,2687.04
+07/01/2002,Canada,2701.96
+08/01/2002,Canada,2673.48
+09/01/2002,Canada,2699.4
+10/01/2002,Canada,2717.44
+11/01/2002,Canada,2720.52
+12/01/2002,Canada,2744.76
+01/01/2003,Canada,2725.96
+02/01/2003,Canada,2762.16
+03/01/2003,Canada,2731.76
+04/01/2003,Canada,2747.96
+05/01/2003,Canada,2734.52
+06/01/2003,Canada,2770.32
+07/01/2003,Canada,2756.24
+08/01/2003,Canada,2761.2
+09/01/2003,Canada,2792.88
+10/01/2003,Canada,2786.44
+11/01/2003,Canada,2799.6
+12/01/2003,Canada,2797.88
+01/01/2004,Canada,2811.0
+02/01/2004,Canada,2823.64
+03/01/2004,Canada,2823.08
+04/01/2004,Canada,2819.64
+05/01/2004,Canada,2836.64
+06/01/2004,Canada,2829.12
+07/01/2004,Canada,2824.64
+08/01/2004,Canada,2829.96
+09/01/2004,Canada,2846.72
+10/01/2004,Canada,2846.04
+11/01/2004,Canada,2864.92
+12/01/2004,Canada,2881.76
+01/01/2005,Canada,2903.56
+02/01/2005,Canada,2946.48
+03/01/2005,Canada,2901.84
+04/01/2005,Canada,2920.32
+05/01/2005,Canada,2930.32
+06/01/2005,Canada,2948.12
+07/01/2005,Canada,2930.88
+08/01/2005,Canada,2949.0
+09/01/2005,Canada,3000.6
+10/01/2005,Canada,2980.0
+11/01/2005,Canada,2976.48
+12/01/2005,Canada,2979.84
+01/01/2006,Canada,2983.68
+02/01/2006,Canada,3003.52
+03/01/2006,Canada,3002.28
+04/01/2006,Canada,3002.28
+05/01/2006,Canada,3001.4
+06/01/2006,Canada,3015.08
+07/01/2006,Canada,3003.92
+08/01/2006,Canada,3016.88
+09/01/2006,Canada,3028.6
+10/01/2006,Canada,3046.76
+11/01/2006,Canada,3041.68
+12/01/2006,Canada,3093.8
+01/01/2007,Canada,3094.92
+02/01/2007,Canada,3106.12
+03/01/2007,Canada,3136.04
+04/01/2007,Canada,3126.08
+05/01/2007,Canada,3139.16
+06/01/2007,Canada,3171.32
+07/01/2007,Canada,3152.92
+08/01/2007,Canada,3136.48
+09/01/2007,Canada,3163.32
+10/01/2007,Canada,3174.24
+11/01/2007,Canada,3196.68
+12/01/2007,Canada,3197.92
+01/01/2008,Canada,3190.08
+02/01/2008,Canada,3238.28
+03/01/2008,Canada,3233.72
+04/01/2008,Canada,3241.68
+05/01/2008,Canada,3227.56
+06/01/2008,Canada,3247.52
+07/01/2008,Canada,3229.44
+08/01/2008,Canada,3223.88
+09/01/2008,Canada,3252.6
+10/01/2008,Canada,3271.72
+11/01/2008,Canada,3274.88
+12/01/2008,Canada,3257.88
+01/01/2009,Canada,3260.36
+02/01/2009,Canada,3298.56
+03/01/2009,Canada,3297.16
+04/01/2009,Canada,3270.24
+05/01/2009,Canada,3262.68
+06/01/2009,Canada,3290.92
+07/01/2009,Canada,3276.32
+08/01/2009,Canada,3263.92
+09/01/2009,Canada,3303.36
+10/01/2009,Canada,3301.24
+11/01/2009,Canada,3313.2
+12/01/2009,Canada,3337.28
+01/01/2010,Canada,3332.92
+02/01/2010,Canada,3391.48
+03/01/2010,Canada,3383.24
+04/01/2010,Canada,3381.44
+05/01/2010,Canada,3378.6
+06/01/2010,Canada,3406.8
+07/01/2010,Canada,3397.52
+08/01/2010,Canada,3411.8
+09/01/2010,Canada,3450.0
+10/01/2010,Canada,3441.0
+11/01/2010,Canada,3456.92
+12/01/2010,Canada,3472.28
+01/01/2011,Canada,3484.24
+02/01/2011,Canada,3509.28
+03/01/2011,Canada,3494.08
+04/01/2011,Canada,3477.88
+05/01/2011,Canada,3476.16
+06/01/2011,Canada,3485.28
+07/01/2011,Canada,3459.6
+08/01/2011,Canada,3470.72
+09/01/2011,Canada,3478.84
+10/01/2011,Canada,3528.2
+11/01/2011,Canada,3521.76
+12/01/2011,Canada,3535.64
+01/01/2012,Canada,3533.44
+02/01/2012,Canada,3550.68
+03/01/2012,Canada,3560.0
+04/01/2012,Canada,3555.52
+05/01/2012,Canada,3551.52
+06/01/2012,Canada,3579.12
+07/01/2012,Canada,3587.76
+08/01/2012,Canada,3597.72
+09/01/2012,Canada,3594.4
+10/01/2012,Canada,3613.16
+11/01/2012,Canada,3614.68
+12/01/2012,Canada,3633.48
+01/01/2013,Canada,3593.76
+02/01/2013,Canada,3647.04
+03/01/2013,Canada,3620.88
+04/01/2013,Canada,3621.64
+05/01/2013,Canada,3642.24
+06/01/2013,Canada,3647.76
+07/01/2013,Canada,3627.28
+08/01/2013,Canada,3629.2
+09/01/2013,Canada,3631.44
+10/01/2013,Canada,3665.8
+11/01/2013,Canada,3689.44
+12/01/2013,Canada,3721.12
+01/01/2014,Canada,3680.72
+02/01/2014,Canada,3732.6
+03/01/2014,Canada,3723.12
+04/01/2014,Canada,3724.48
+05/01/2014,Canada,3730.88
+06/01/2014,Canada,3754.28
+07/01/2014,Canada,3757.2
+08/01/2014,Canada,3740.88
+09/01/2014,Canada,3738.96
+10/01/2014,Canada,3762.72
+11/01/2014,Canada,3751.32
+12/01/2014,Canada,3793.6
+01/01/2015,Canada,3779.92
+02/01/2015,Canada,3831.2
+03/01/2015,Canada,3826.0
+04/01/2015,Canada,3818.8
+01/01/2001,Manitoba,2315.8
+02/01/2001,Manitoba,2322.52
+03/01/2001,Manitoba,2314.68
+04/01/2001,Manitoba,2305.44
+05/01/2001,Manitoba,2287.36
+06/01/2001,Manitoba,2354.64
+07/01/2001,Manitoba,2345.24
+08/01/2001,Manitoba,2369.28
+09/01/2001,Manitoba,2350.92
+10/01/2001,Manitoba,2349.56
+11/01/2001,Manitoba,2346.24
+12/01/2001,Manitoba,2372.12
+01/01/2002,Manitoba,2358.48
+02/01/2002,Manitoba,2377.24
+03/01/2002,Manitoba,2390.2
+04/01/2002,Manitoba,2405.44
+05/01/2002,Manitoba,2391.76
+06/01/2002,Manitoba,2408.48
+07/01/2002,Manitoba,2429.76
+08/01/2002,Manitoba,2413.08
+09/01/2002,Manitoba,2416.8
+10/01/2002,Manitoba,2416.84
+11/01/2002,Manitoba,2479.8
+12/01/2002,Manitoba,2497.76
+01/01/2003,Manitoba,2469.08
+02/01/2003,Manitoba,2473.64
+03/01/2003,Manitoba,2452.92
+04/01/2003,Manitoba,2453.48
+05/01/2003,Manitoba,2436.24
+06/01/2003,Manitoba,2477.52
+07/01/2003,Manitoba,2448.56
+08/01/2003,Manitoba,2487.32
+09/01/2003,Manitoba,2503.04
+10/01/2003,Manitoba,2495.08
+11/01/2003,Manitoba,2494.76
+12/01/2003,Manitoba,2524.2
+01/01/2004,Manitoba,2531.08
+02/01/2004,Manitoba,2530.28
+03/01/2004,Manitoba,2517.12
+04/01/2004,Manitoba,2512.96
+05/01/2004,Manitoba,2534.96
+06/01/2004,Manitoba,2532.16
+07/01/2004,Manitoba,2524.96
+08/01/2004,Manitoba,2544.88
+09/01/2004,Manitoba,2540.4
+10/01/2004,Manitoba,2604.52
+11/01/2004,Manitoba,2595.44
+12/01/2004,Manitoba,2591.8
+01/01/2005,Manitoba,2635.84
+02/01/2005,Manitoba,2638.52
+03/01/2005,Manitoba,2631.68
+04/01/2005,Manitoba,2631.48
+05/01/2005,Manitoba,2641.24
+06/01/2005,Manitoba,2675.88
+07/01/2005,Manitoba,2659.44
+08/01/2005,Manitoba,2672.88
+09/01/2005,Manitoba,2705.8
+10/01/2005,Manitoba,2691.68
+11/01/2005,Manitoba,2678.76
+12/01/2005,Manitoba,2687.6
+01/01/2006,Manitoba,2701.2
+02/01/2006,Manitoba,2704.12
+03/01/2006,Manitoba,2711.28
+04/01/2006,Manitoba,2702.36
+05/01/2006,Manitoba,2686.6
+06/01/2006,Manitoba,2765.76
+07/01/2006,Manitoba,2722.76
+08/01/2006,Manitoba,2712.32
+09/01/2006,Manitoba,2778.8
+10/01/2006,Manitoba,2769.4
+11/01/2006,Manitoba,2759.24
+12/01/2006,Manitoba,2868.48
+01/01/2007,Manitoba,2830.92
+02/01/2007,Manitoba,2856.88
+03/01/2007,Manitoba,2898.44
+04/01/2007,Manitoba,2876.32
+05/01/2007,Manitoba,2845.12
+06/01/2007,Manitoba,2940.32
+07/01/2007,Manitoba,2893.84
+08/01/2007,Manitoba,2894.2
+09/01/2007,Manitoba,2903.96
+10/01/2007,Manitoba,2930.72
+11/01/2007,Manitoba,2959.76
+12/01/2007,Manitoba,2947.92
+01/01/2008,Manitoba,2908.76
+02/01/2008,Manitoba,3008.2
+03/01/2008,Manitoba,2971.28
+04/01/2008,Manitoba,2981.36
+05/01/2008,Manitoba,2971.12
+06/01/2008,Manitoba,2981.32
+07/01/2008,Manitoba,2948.2
+08/01/2008,Manitoba,2987.72
+09/01/2008,Manitoba,2992.04
+10/01/2008,Manitoba,2999.36
+11/01/2008,Manitoba,2991.68
+12/01/2008,Manitoba,3031.76
+01/01/2009,Manitoba,3053.28
+02/01/2009,Manitoba,3064.76
+03/01/2009,Manitoba,3072.72
+04/01/2009,Manitoba,3013.04
+05/01/2009,Manitoba,3012.56
+06/01/2009,Manitoba,3049.96
+07/01/2009,Manitoba,3059.6
+08/01/2009,Manitoba,3039.4
+09/01/2009,Manitoba,3103.32
+10/01/2009,Manitoba,3115.52
+11/01/2009,Manitoba,3065.76
+12/01/2009,Manitoba,3070.2
+01/01/2010,Manitoba,3057.52
+02/01/2010,Manitoba,3105.28
+03/01/2010,Manitoba,3089.6
+04/01/2010,Manitoba,3091.28
+05/01/2010,Manitoba,3082.48
+06/01/2010,Manitoba,3111.08
+07/01/2010,Manitoba,3120.24
+08/01/2010,Manitoba,3118.28
+09/01/2010,Manitoba,3148.0
+10/01/2010,Manitoba,3182.68
+11/01/2010,Manitoba,3158.24
+12/01/2010,Manitoba,3207.24
+01/01/2011,Manitoba,3186.64
+02/01/2011,Manitoba,3201.0
+03/01/2011,Manitoba,3188.88
+04/01/2011,Manitoba,3199.48
+05/01/2011,Manitoba,3200.48
+06/01/2011,Manitoba,3206.68
+07/01/2011,Manitoba,3197.52
+08/01/2011,Manitoba,3220.48
+09/01/2011,Manitoba,3217.0
+10/01/2011,Manitoba,3219.48
+11/01/2011,Manitoba,3207.08
+12/01/2011,Manitoba,3218.36
+01/01/2012,Manitoba,3263.0
+02/01/2012,Manitoba,3220.36
+03/01/2012,Manitoba,3284.52
+04/01/2012,Manitoba,3253.2
+05/01/2012,Manitoba,3239.52
+06/01/2012,Manitoba,3310.52
+07/01/2012,Manitoba,3295.12
+08/01/2012,Manitoba,3332.2
+09/01/2012,Manitoba,3335.16
+10/01/2012,Manitoba,3323.76
+11/01/2012,Manitoba,3298.68
+12/01/2012,Manitoba,3343.44
+01/01/2013,Manitoba,3287.36
+02/01/2013,Manitoba,3262.44
+03/01/2013,Manitoba,3314.36
+04/01/2013,Manitoba,3285.36
+05/01/2013,Manitoba,3258.88
+06/01/2013,Manitoba,3317.16
+07/01/2013,Manitoba,3293.28
+08/01/2013,Manitoba,3298.96
+09/01/2013,Manitoba,3287.16
+10/01/2013,Manitoba,3289.52
+11/01/2013,Manitoba,3368.36
+12/01/2013,Manitoba,3457.04
+01/01/2014,Manitoba,3366.56
+02/01/2014,Manitoba,3407.28
+03/01/2014,Manitoba,3422.52
+04/01/2014,Manitoba,3431.96
+05/01/2014,Manitoba,3409.24
+06/01/2014,Manitoba,3471.0
+07/01/2014,Manitoba,3441.44
+08/01/2014,Manitoba,3500.36
+09/01/2014,Manitoba,3477.32
+10/01/2014,Manitoba,3489.64
+11/01/2014,Manitoba,3448.28
+12/01/2014,Manitoba,3547.76
+01/01/2015,Manitoba,3500.68
+02/01/2015,Manitoba,3493.4
+03/01/2015,Manitoba,3461.16
+04/01/2015,Manitoba,3458.76
+01/01/2001,New Brunswick,2339.0
+02/01/2001,New Brunswick,2340.44
+03/01/2001,New Brunswick,2336.52
+04/01/2001,New Brunswick,2323.68
+05/01/2001,New Brunswick,2313.76
+06/01/2001,New Brunswick,2331.16
+07/01/2001,New Brunswick,2322.28
+08/01/2001,New Brunswick,2411.4
+09/01/2001,New Brunswick,2377.64
+10/01/2001,New Brunswick,2382.96
+11/01/2001,New Brunswick,2392.44
+12/01/2001,New Brunswick,2409.48
+01/01/2002,New Brunswick,2396.76
+02/01/2002,New Brunswick,2385.16
+03/01/2002,New Brunswick,2405.96
+04/01/2002,New Brunswick,2416.72
+05/01/2002,New Brunswick,2413.16
+06/01/2002,New Brunswick,2416.84
+07/01/2002,New Brunswick,2419.64
+08/01/2002,New Brunswick,2393.72
+09/01/2002,New Brunswick,2411.52
+10/01/2002,New Brunswick,2456.56
+11/01/2002,New Brunswick,2439.48
+12/01/2002,New Brunswick,2446.0
+01/01/2003,New Brunswick,2450.4
+02/01/2003,New Brunswick,2457.92
+03/01/2003,New Brunswick,2444.28
+04/01/2003,New Brunswick,2460.08
+05/01/2003,New Brunswick,2450.2
+06/01/2003,New Brunswick,2471.32
+07/01/2003,New Brunswick,2481.84
+08/01/2003,New Brunswick,2481.52
+09/01/2003,New Brunswick,2508.4
+10/01/2003,New Brunswick,2505.12
+11/01/2003,New Brunswick,2524.8
+12/01/2003,New Brunswick,2495.48
+01/01/2004,New Brunswick,2527.2
+02/01/2004,New Brunswick,2506.84
+03/01/2004,New Brunswick,2492.52
+04/01/2004,New Brunswick,2484.04
+05/01/2004,New Brunswick,2516.92
+06/01/2004,New Brunswick,2503.36
+07/01/2004,New Brunswick,2494.36
+08/01/2004,New Brunswick,2487.92
+09/01/2004,New Brunswick,2516.2
+10/01/2004,New Brunswick,2529.32
+11/01/2004,New Brunswick,2537.24
+12/01/2004,New Brunswick,2573.28
+01/01/2005,New Brunswick,2610.52
+02/01/2005,New Brunswick,2616.44
+03/01/2005,New Brunswick,2599.96
+04/01/2005,New Brunswick,2602.0
+05/01/2005,New Brunswick,2595.52
+06/01/2005,New Brunswick,2605.0
+07/01/2005,New Brunswick,2602.2
+08/01/2005,New Brunswick,2601.0
+09/01/2005,New Brunswick,2651.04
+10/01/2005,New Brunswick,2657.32
+11/01/2005,New Brunswick,2654.08
+12/01/2005,New Brunswick,2653.52
+01/01/2006,New Brunswick,2670.48
+02/01/2006,New Brunswick,2669.12
+03/01/2006,New Brunswick,2665.56
+04/01/2006,New Brunswick,2673.96
+05/01/2006,New Brunswick,2666.28
+06/01/2006,New Brunswick,2686.48
+07/01/2006,New Brunswick,2667.04
+08/01/2006,New Brunswick,2666.36
+09/01/2006,New Brunswick,2720.32
+10/01/2006,New Brunswick,2723.24
+11/01/2006,New Brunswick,2749.36
+12/01/2006,New Brunswick,2792.2
+01/01/2007,New Brunswick,2787.28
+02/01/2007,New Brunswick,2802.04
+03/01/2007,New Brunswick,2834.92
+04/01/2007,New Brunswick,2815.36
+05/01/2007,New Brunswick,2836.36
+06/01/2007,New Brunswick,2837.08
+07/01/2007,New Brunswick,2797.32
+08/01/2007,New Brunswick,2804.72
+09/01/2007,New Brunswick,2824.76
+10/01/2007,New Brunswick,2853.96
+11/01/2007,New Brunswick,2878.88
+12/01/2007,New Brunswick,2893.64
+01/01/2008,New Brunswick,2871.08
+02/01/2008,New Brunswick,2899.16
+03/01/2008,New Brunswick,2887.52
+04/01/2008,New Brunswick,2891.44
+05/01/2008,New Brunswick,2906.2
+06/01/2008,New Brunswick,2899.12
+07/01/2008,New Brunswick,2935.4
+08/01/2008,New Brunswick,2935.28
+09/01/2008,New Brunswick,2931.6
+10/01/2008,New Brunswick,2964.4
+11/01/2008,New Brunswick,2954.92
+12/01/2008,New Brunswick,2947.16
+01/01/2009,New Brunswick,2969.68
+02/01/2009,New Brunswick,2982.4
+03/01/2009,New Brunswick,2985.6
+04/01/2009,New Brunswick,2965.68
+05/01/2009,New Brunswick,2968.52
+06/01/2009,New Brunswick,2966.32
+07/01/2009,New Brunswick,3026.2
+08/01/2009,New Brunswick,2997.0
+09/01/2009,New Brunswick,3050.32
+10/01/2009,New Brunswick,2993.16
+11/01/2009,New Brunswick,3011.04
+12/01/2009,New Brunswick,3033.52
+01/01/2010,New Brunswick,3020.64
+02/01/2010,New Brunswick,3047.92
+03/01/2010,New Brunswick,3046.84
+04/01/2010,New Brunswick,3052.48
+05/01/2010,New Brunswick,2998.96
+06/01/2010,New Brunswick,3017.56
+07/01/2010,New Brunswick,3013.16
+08/01/2010,New Brunswick,3000.52
+09/01/2010,New Brunswick,3053.08
+10/01/2010,New Brunswick,3062.92
+11/01/2010,New Brunswick,3077.48
+12/01/2010,New Brunswick,3114.72
+01/01/2011,New Brunswick,3139.64
+02/01/2011,New Brunswick,3140.64
+03/01/2011,New Brunswick,3151.56
+04/01/2011,New Brunswick,3163.92
+05/01/2011,New Brunswick,3129.08
+06/01/2011,New Brunswick,3107.36
+07/01/2011,New Brunswick,3123.24
+08/01/2011,New Brunswick,3118.88
+09/01/2011,New Brunswick,3157.44
+10/01/2011,New Brunswick,3181.04
+11/01/2011,New Brunswick,3199.56
+12/01/2011,New Brunswick,3178.08
+01/01/2012,New Brunswick,3172.08
+02/01/2012,New Brunswick,3204.8
+03/01/2012,New Brunswick,3230.8
+04/01/2012,New Brunswick,3227.12
+05/01/2012,New Brunswick,3226.6
+06/01/2012,New Brunswick,3241.84
+07/01/2012,New Brunswick,3222.2
+08/01/2012,New Brunswick,3233.68
+09/01/2012,New Brunswick,3220.48
+10/01/2012,New Brunswick,3252.48
+11/01/2012,New Brunswick,3242.0
+12/01/2012,New Brunswick,3243.68
+01/01/2013,New Brunswick,3207.0
+02/01/2013,New Brunswick,3201.52
+03/01/2013,New Brunswick,3175.84
+04/01/2013,New Brunswick,3199.84
+05/01/2013,New Brunswick,3232.36
+06/01/2013,New Brunswick,3238.0
+07/01/2013,New Brunswick,3199.96
+08/01/2013,New Brunswick,3205.72
+09/01/2013,New Brunswick,3159.64
+10/01/2013,New Brunswick,3220.36
+11/01/2013,New Brunswick,3299.48
+12/01/2013,New Brunswick,3278.8
+01/01/2014,New Brunswick,3230.0
+02/01/2014,New Brunswick,3292.76
+03/01/2014,New Brunswick,3251.84
+04/01/2014,New Brunswick,3327.72
+05/01/2014,New Brunswick,3338.92
+06/01/2014,New Brunswick,3339.4
+07/01/2014,New Brunswick,3370.8
+08/01/2014,New Brunswick,3306.68
+09/01/2014,New Brunswick,3345.72
+10/01/2014,New Brunswick,3353.96
+11/01/2014,New Brunswick,3354.84
+12/01/2014,New Brunswick,3425.4
+01/01/2015,New Brunswick,3368.12
+02/01/2015,New Brunswick,3417.56
+03/01/2015,New Brunswick,3392.88
+04/01/2015,New Brunswick,3459.24
+01/01/2001,Newfoundland And Labrador,2376.0
+02/01/2001,Newfoundland And Labrador,2367.68
+03/01/2001,Newfoundland And Labrador,2373.88
+04/01/2001,Newfoundland And Labrador,2367.84
+05/01/2001,Newfoundland And Labrador,2352.76
+06/01/2001,Newfoundland And Labrador,2367.4
+07/01/2001,Newfoundland And Labrador,2363.64
+08/01/2001,Newfoundland And Labrador,2374.12
+09/01/2001,Newfoundland And Labrador,2403.8
+10/01/2001,Newfoundland And Labrador,2385.96
+11/01/2001,Newfoundland And Labrador,2341.08
+12/01/2001,Newfoundland And Labrador,2376.12
+01/01/2002,Newfoundland And Labrador,2396.76
+02/01/2002,Newfoundland And Labrador,2361.48
+03/01/2002,Newfoundland And Labrador,2400.2
+04/01/2002,Newfoundland And Labrador,2419.12
+05/01/2002,Newfoundland And Labrador,2444.24
+06/01/2002,Newfoundland And Labrador,2428.32
+07/01/2002,Newfoundland And Labrador,2430.2
+08/01/2002,Newfoundland And Labrador,2416.16
+09/01/2002,Newfoundland And Labrador,2450.84
+10/01/2002,Newfoundland And Labrador,2473.16
+11/01/2002,Newfoundland And Labrador,2488.32
+12/01/2002,Newfoundland And Labrador,2519.12
+01/01/2003,Newfoundland And Labrador,2499.84
+02/01/2003,Newfoundland And Labrador,2547.0
+03/01/2003,Newfoundland And Labrador,2517.28
+04/01/2003,Newfoundland And Labrador,2544.68
+05/01/2003,Newfoundland And Labrador,2567.68
+06/01/2003,Newfoundland And Labrador,2594.12
+07/01/2003,Newfoundland And Labrador,2608.52
+08/01/2003,Newfoundland And Labrador,2600.4
+09/01/2003,Newfoundland And Labrador,2571.76
+10/01/2003,Newfoundland And Labrador,2517.56
+11/01/2003,Newfoundland And Labrador,2574.76
+12/01/2003,Newfoundland And Labrador,2558.84
+01/01/2004,Newfoundland And Labrador,2584.68
+02/01/2004,Newfoundland And Labrador,2616.08
+03/01/2004,Newfoundland And Labrador,2625.52
+04/01/2004,Newfoundland And Labrador,2568.4
+05/01/2004,Newfoundland And Labrador,2686.48
+06/01/2004,Newfoundland And Labrador,2632.12
+07/01/2004,Newfoundland And Labrador,2643.84
+08/01/2004,Newfoundland And Labrador,2605.88
+09/01/2004,Newfoundland And Labrador,2598.96
+10/01/2004,Newfoundland And Labrador,2639.92
+11/01/2004,Newfoundland And Labrador,2624.76
+12/01/2004,Newfoundland And Labrador,2637.24
+01/01/2005,Newfoundland And Labrador,2689.64
+02/01/2005,Newfoundland And Labrador,2708.2
+03/01/2005,Newfoundland And Labrador,2658.16
+04/01/2005,Newfoundland And Labrador,2704.92
+05/01/2005,Newfoundland And Labrador,2726.0
+06/01/2005,Newfoundland And Labrador,2727.44
+07/01/2005,Newfoundland And Labrador,2751.6
+08/01/2005,Newfoundland And Labrador,2736.64
+09/01/2005,Newfoundland And Labrador,2749.92
+10/01/2005,Newfoundland And Labrador,2777.96
+11/01/2005,Newfoundland And Labrador,2756.2
+12/01/2005,Newfoundland And Labrador,2756.04
+01/01/2006,Newfoundland And Labrador,2785.44
+02/01/2006,Newfoundland And Labrador,2787.72
+03/01/2006,Newfoundland And Labrador,2788.64
+04/01/2006,Newfoundland And Labrador,2824.88
+05/01/2006,Newfoundland And Labrador,2827.48
+06/01/2006,Newfoundland And Labrador,2811.48
+07/01/2006,Newfoundland And Labrador,2813.04
+08/01/2006,Newfoundland And Labrador,2807.64
+09/01/2006,Newfoundland And Labrador,2854.12
+10/01/2006,Newfoundland And Labrador,2855.6
+11/01/2006,Newfoundland And Labrador,2825.44
+12/01/2006,Newfoundland And Labrador,2906.84
+01/01/2007,Newfoundland And Labrador,2917.04
+02/01/2007,Newfoundland And Labrador,2886.12
+03/01/2007,Newfoundland And Labrador,2926.72
+04/01/2007,Newfoundland And Labrador,2955.68
+05/01/2007,Newfoundland And Labrador,2913.08
+06/01/2007,Newfoundland And Labrador,2962.6
+07/01/2007,Newfoundland And Labrador,2951.64
+08/01/2007,Newfoundland And Labrador,2911.12
+09/01/2007,Newfoundland And Labrador,2960.8
+10/01/2007,Newfoundland And Labrador,2975.16
+11/01/2007,Newfoundland And Labrador,2966.52
+12/01/2007,Newfoundland And Labrador,2965.44
+01/01/2008,Newfoundland And Labrador,2966.16
+02/01/2008,Newfoundland And Labrador,3004.96
+03/01/2008,Newfoundland And Labrador,3029.52
+04/01/2008,Newfoundland And Labrador,3049.96
+05/01/2008,Newfoundland And Labrador,3043.56
+06/01/2008,Newfoundland And Labrador,3062.96
+07/01/2008,Newfoundland And Labrador,3035.6
+08/01/2008,Newfoundland And Labrador,3083.64
+09/01/2008,Newfoundland And Labrador,3092.2
+10/01/2008,Newfoundland And Labrador,3099.64
+11/01/2008,Newfoundland And Labrador,3153.72
+12/01/2008,Newfoundland And Labrador,3123.96
+01/01/2009,Newfoundland And Labrador,3103.56
+02/01/2009,Newfoundland And Labrador,3137.88
+03/01/2009,Newfoundland And Labrador,3199.04
+04/01/2009,Newfoundland And Labrador,3191.4
+05/01/2009,Newfoundland And Labrador,3221.8
+06/01/2009,Newfoundland And Labrador,3192.04
+07/01/2009,Newfoundland And Labrador,3213.44
+08/01/2009,Newfoundland And Labrador,3156.28
+09/01/2009,Newfoundland And Labrador,3197.72
+10/01/2009,Newfoundland And Labrador,3248.72
+11/01/2009,Newfoundland And Labrador,3289.44
+12/01/2009,Newfoundland And Labrador,3282.44
+01/01/2010,Newfoundland And Labrador,3264.24
+02/01/2010,Newfoundland And Labrador,3348.56
+03/01/2010,Newfoundland And Labrador,3344.84
+04/01/2010,Newfoundland And Labrador,3344.12
+05/01/2010,Newfoundland And Labrador,3320.6
+06/01/2010,Newfoundland And Labrador,3345.08
+07/01/2010,Newfoundland And Labrador,3307.8
+08/01/2010,Newfoundland And Labrador,3337.68
+09/01/2010,Newfoundland And Labrador,3377.76
+10/01/2010,Newfoundland And Labrador,3344.04
+11/01/2010,Newfoundland And Labrador,3396.12
+12/01/2010,Newfoundland And Labrador,3424.04
+01/01/2011,Newfoundland And Labrador,3456.12
+02/01/2011,Newfoundland And Labrador,3530.84
+03/01/2011,Newfoundland And Labrador,3519.56
+04/01/2011,Newfoundland And Labrador,3492.68
+05/01/2011,Newfoundland And Labrador,3479.48
+06/01/2011,Newfoundland And Labrador,3447.4
+07/01/2011,Newfoundland And Labrador,3489.72
+08/01/2011,Newfoundland And Labrador,3480.24
+09/01/2011,Newfoundland And Labrador,3537.36
+10/01/2011,Newfoundland And Labrador,3596.6
+11/01/2011,Newfoundland And Labrador,3564.92
+12/01/2011,Newfoundland And Labrador,3598.84
+01/01/2012,Newfoundland And Labrador,3621.92
+02/01/2012,Newfoundland And Labrador,3650.0
+03/01/2012,Newfoundland And Labrador,3680.6
+04/01/2012,Newfoundland And Labrador,3711.48
+05/01/2012,Newfoundland And Labrador,3664.04
+06/01/2012,Newfoundland And Labrador,3681.96
+07/01/2012,Newfoundland And Labrador,3739.04
+08/01/2012,Newfoundland And Labrador,3762.6
+09/01/2012,Newfoundland And Labrador,3749.08
+10/01/2012,Newfoundland And Labrador,3743.76
+11/01/2012,Newfoundland And Labrador,3728.0
+12/01/2012,Newfoundland And Labrador,3734.16
+01/01/2013,Newfoundland And Labrador,3737.8
+02/01/2013,Newfoundland And Labrador,3808.6
+03/01/2013,Newfoundland And Labrador,3780.88
+04/01/2013,Newfoundland And Labrador,3785.44
+05/01/2013,Newfoundland And Labrador,3761.04
+06/01/2013,Newfoundland And Labrador,3761.4
+07/01/2013,Newfoundland And Labrador,3795.16
+08/01/2013,Newfoundland And Labrador,3807.84
+09/01/2013,Newfoundland And Labrador,3820.56
+10/01/2013,Newfoundland And Labrador,3867.84
+11/01/2013,Newfoundland And Labrador,3893.8
+12/01/2013,Newfoundland And Labrador,3891.0
+01/01/2014,Newfoundland And Labrador,3832.64
+02/01/2014,Newfoundland And Labrador,3913.96
+03/01/2014,Newfoundland And Labrador,3932.84
+04/01/2014,Newfoundland And Labrador,3956.84
+05/01/2014,Newfoundland And Labrador,3962.0
+06/01/2014,Newfoundland And Labrador,3984.56
+07/01/2014,Newfoundland And Labrador,3981.84
+08/01/2014,Newfoundland And Labrador,3943.04
+09/01/2014,Newfoundland And Labrador,3989.08
+10/01/2014,Newfoundland And Labrador,4006.28
+11/01/2014,Newfoundland And Labrador,4029.48
+12/01/2014,Newfoundland And Labrador,4027.92
+01/01/2015,Newfoundland And Labrador,4028.8
+02/01/2015,Newfoundland And Labrador,4063.4
+03/01/2015,Newfoundland And Labrador,4091.0
+04/01/2015,Newfoundland And Labrador,4078.44
+01/01/2001,Nova Scotia,2285.12
+02/01/2001,Nova Scotia,2280.24
+03/01/2001,Nova Scotia,2282.8
+04/01/2001,Nova Scotia,2274.8
+05/01/2001,Nova Scotia,2271.84
+06/01/2001,Nova Scotia,2305.68
+07/01/2001,Nova Scotia,2304.64
+08/01/2001,Nova Scotia,2318.16
+09/01/2001,Nova Scotia,2307.0
+10/01/2001,Nova Scotia,2331.08
+11/01/2001,Nova Scotia,2332.6
+12/01/2001,Nova Scotia,2376.64
+01/01/2002,Nova Scotia,2367.0
+02/01/2002,Nova Scotia,2346.4
+03/01/2002,Nova Scotia,2359.8
+04/01/2002,Nova Scotia,2380.8
+05/01/2002,Nova Scotia,2393.88
+06/01/2002,Nova Scotia,2405.92
+07/01/2002,Nova Scotia,2417.92
+08/01/2002,Nova Scotia,2372.0
+09/01/2002,Nova Scotia,2367.04
+10/01/2002,Nova Scotia,2395.2
+11/01/2002,Nova Scotia,2393.16
+12/01/2002,Nova Scotia,2439.44
+01/01/2003,Nova Scotia,2428.24
+02/01/2003,Nova Scotia,2428.84
+03/01/2003,Nova Scotia,2421.84
+04/01/2003,Nova Scotia,2444.16
+05/01/2003,Nova Scotia,2454.04
+06/01/2003,Nova Scotia,2459.84
+07/01/2003,Nova Scotia,2441.12
+08/01/2003,Nova Scotia,2445.96
+09/01/2003,Nova Scotia,2440.0
+10/01/2003,Nova Scotia,2437.88
+11/01/2003,Nova Scotia,2442.56
+12/01/2003,Nova Scotia,2475.36
+01/01/2004,Nova Scotia,2460.36
+02/01/2004,Nova Scotia,2444.0
+03/01/2004,Nova Scotia,2471.92
+04/01/2004,Nova Scotia,2479.84
+05/01/2004,Nova Scotia,2523.72
+06/01/2004,Nova Scotia,2510.2
+07/01/2004,Nova Scotia,2509.64
+08/01/2004,Nova Scotia,2509.8
+09/01/2004,Nova Scotia,2509.36
+10/01/2004,Nova Scotia,2521.12
+11/01/2004,Nova Scotia,2509.0
+12/01/2004,Nova Scotia,2575.88
+01/01/2005,Nova Scotia,2591.92
+02/01/2005,Nova Scotia,2618.04
+03/01/2005,Nova Scotia,2588.84
+04/01/2005,Nova Scotia,2586.72
+05/01/2005,Nova Scotia,2619.56
+06/01/2005,Nova Scotia,2633.04
+07/01/2005,Nova Scotia,2620.28
+08/01/2005,Nova Scotia,2633.48
+09/01/2005,Nova Scotia,2671.8
+10/01/2005,Nova Scotia,2660.76
+11/01/2005,Nova Scotia,2656.64
+12/01/2005,Nova Scotia,2661.4
+01/01/2006,Nova Scotia,2683.12
+02/01/2006,Nova Scotia,2673.32
+03/01/2006,Nova Scotia,2677.84
+04/01/2006,Nova Scotia,2670.44
+05/01/2006,Nova Scotia,2650.4
+06/01/2006,Nova Scotia,2714.16
+07/01/2006,Nova Scotia,2701.64
+08/01/2006,Nova Scotia,2708.48
+09/01/2006,Nova Scotia,2703.44
+10/01/2006,Nova Scotia,2686.92
+11/01/2006,Nova Scotia,2709.28
+12/01/2006,Nova Scotia,2746.36
+01/01/2007,Nova Scotia,2727.04
+02/01/2007,Nova Scotia,2743.36
+03/01/2007,Nova Scotia,2811.44
+04/01/2007,Nova Scotia,2758.44
+05/01/2007,Nova Scotia,2804.84
+06/01/2007,Nova Scotia,2824.36
+07/01/2007,Nova Scotia,2775.48
+08/01/2007,Nova Scotia,2790.16
+09/01/2007,Nova Scotia,2754.84
+10/01/2007,Nova Scotia,2744.36
+11/01/2007,Nova Scotia,2796.96
+12/01/2007,Nova Scotia,2809.2
+01/01/2008,Nova Scotia,2807.84
+02/01/2008,Nova Scotia,2812.32
+03/01/2008,Nova Scotia,2814.44
+04/01/2008,Nova Scotia,2830.2
+05/01/2008,Nova Scotia,2858.36
+06/01/2008,Nova Scotia,2850.24
+07/01/2008,Nova Scotia,2881.52
+08/01/2008,Nova Scotia,2863.96
+09/01/2008,Nova Scotia,2853.92
+10/01/2008,Nova Scotia,2870.48
+11/01/2008,Nova Scotia,2866.88
+12/01/2008,Nova Scotia,2899.12
+01/01/2009,Nova Scotia,2883.76
+02/01/2009,Nova Scotia,2911.0
+03/01/2009,Nova Scotia,2912.0
+04/01/2009,Nova Scotia,2914.08
+05/01/2009,Nova Scotia,2933.84
+06/01/2009,Nova Scotia,2932.16
+07/01/2009,Nova Scotia,2915.92
+08/01/2009,Nova Scotia,2922.8
+09/01/2009,Nova Scotia,2943.28
+10/01/2009,Nova Scotia,2858.28
+11/01/2009,Nova Scotia,2900.2
+12/01/2009,Nova Scotia,2969.8
+01/01/2010,Nova Scotia,2950.84
+02/01/2010,Nova Scotia,3025.2
+03/01/2010,Nova Scotia,2989.6
+04/01/2010,Nova Scotia,2993.84
+05/01/2010,Nova Scotia,3025.2
+06/01/2010,Nova Scotia,3054.72
+07/01/2010,Nova Scotia,3066.48
+08/01/2010,Nova Scotia,3028.4
+09/01/2010,Nova Scotia,3050.96
+10/01/2010,Nova Scotia,3036.44
+11/01/2010,Nova Scotia,3029.88
+12/01/2010,Nova Scotia,3115.96
+01/01/2011,Nova Scotia,3020.96
+02/01/2011,Nova Scotia,3042.72
+03/01/2011,Nova Scotia,3059.12
+04/01/2011,Nova Scotia,3047.2
+05/01/2011,Nova Scotia,3045.64
+06/01/2011,Nova Scotia,3092.44
+07/01/2011,Nova Scotia,3073.24
+08/01/2011,Nova Scotia,3061.8
+09/01/2011,Nova Scotia,3022.36
+10/01/2011,Nova Scotia,3041.36
+11/01/2011,Nova Scotia,3095.76
+12/01/2011,Nova Scotia,3123.16
+01/01/2012,Nova Scotia,3086.16
+02/01/2012,Nova Scotia,3076.76
+03/01/2012,Nova Scotia,3110.6
+04/01/2012,Nova Scotia,3105.48
+05/01/2012,Nova Scotia,3159.6
+06/01/2012,Nova Scotia,3171.08
+07/01/2012,Nova Scotia,3160.2
+08/01/2012,Nova Scotia,3171.16
+09/01/2012,Nova Scotia,3175.08
+10/01/2012,Nova Scotia,3159.64
+11/01/2012,Nova Scotia,3219.88
+12/01/2012,Nova Scotia,3229.28
+01/01/2013,Nova Scotia,3135.56
+02/01/2013,Nova Scotia,3147.68
+03/01/2013,Nova Scotia,3143.0
+04/01/2013,Nova Scotia,3146.32
+05/01/2013,Nova Scotia,3202.24
+06/01/2013,Nova Scotia,3214.64
+07/01/2013,Nova Scotia,3234.2
+08/01/2013,Nova Scotia,3211.52
+09/01/2013,Nova Scotia,3180.6
+10/01/2013,Nova Scotia,3191.36
+11/01/2013,Nova Scotia,3227.68
+12/01/2013,Nova Scotia,3233.72
+01/01/2014,Nova Scotia,3206.36
+02/01/2014,Nova Scotia,3255.32
+03/01/2014,Nova Scotia,3238.24
+04/01/2014,Nova Scotia,3269.92
+05/01/2014,Nova Scotia,3310.24
+06/01/2014,Nova Scotia,3320.96
+07/01/2014,Nova Scotia,3322.72
+08/01/2014,Nova Scotia,3289.08
+09/01/2014,Nova Scotia,3244.84
+10/01/2014,Nova Scotia,3280.48
+11/01/2014,Nova Scotia,3265.92
+12/01/2014,Nova Scotia,3347.04
+01/01/2015,Nova Scotia,3322.08
+02/01/2015,Nova Scotia,3316.36
+03/01/2015,Nova Scotia,3292.04
+04/01/2015,Nova Scotia,3341.24
+01/01/2001,Ontario,2794.28
+02/01/2001,Ontario,2774.76
+03/01/2001,Ontario,2788.32
+04/01/2001,Ontario,2774.92
+05/01/2001,Ontario,2753.08
+06/01/2001,Ontario,2789.48
+07/01/2001,Ontario,2786.6
+08/01/2001,Ontario,2764.36
+09/01/2001,Ontario,2797.92
+10/01/2001,Ontario,2788.24
+11/01/2001,Ontario,2804.16
+12/01/2001,Ontario,2790.44
+01/01/2002,Ontario,2794.92
+02/01/2002,Ontario,2796.6
+03/01/2002,Ontario,2814.84
+04/01/2002,Ontario,2847.4
+05/01/2002,Ontario,2825.88
+06/01/2002,Ontario,2845.64
+07/01/2002,Ontario,2864.68
+08/01/2002,Ontario,2830.44
+09/01/2002,Ontario,2863.68
+10/01/2002,Ontario,2875.76
+11/01/2002,Ontario,2879.88
+12/01/2002,Ontario,2888.44
+01/01/2003,Ontario,2866.08
+02/01/2003,Ontario,2912.44
+03/01/2003,Ontario,2885.36
+04/01/2003,Ontario,2892.16
+05/01/2003,Ontario,2885.88
+06/01/2003,Ontario,2923.48
+07/01/2003,Ontario,2903.88
+08/01/2003,Ontario,2919.88
+09/01/2003,Ontario,2946.24
+10/01/2003,Ontario,2943.08
+11/01/2003,Ontario,2945.76
+12/01/2003,Ontario,2947.48
+01/01/2004,Ontario,2982.4
+02/01/2004,Ontario,2990.48
+03/01/2004,Ontario,2981.48
+04/01/2004,Ontario,2993.36
+05/01/2004,Ontario,3003.84
+06/01/2004,Ontario,2993.4
+07/01/2004,Ontario,2991.2
+08/01/2004,Ontario,2981.44
+09/01/2004,Ontario,2978.16
+10/01/2004,Ontario,3000.68
+11/01/2004,Ontario,3012.44
+12/01/2004,Ontario,3035.76
+01/01/2005,Ontario,3058.56
+02/01/2005,Ontario,3105.2
+03/01/2005,Ontario,3054.72
+04/01/2005,Ontario,3092.28
+05/01/2005,Ontario,3090.8
+06/01/2005,Ontario,3120.76
+07/01/2005,Ontario,3085.84
+08/01/2005,Ontario,3100.32
+09/01/2005,Ontario,3157.84
+10/01/2005,Ontario,3136.4
+11/01/2005,Ontario,3120.88
+12/01/2005,Ontario,3128.4
+01/01/2006,Ontario,3138.28
+02/01/2006,Ontario,3151.36
+03/01/2006,Ontario,3142.44
+04/01/2006,Ontario,3134.2
+05/01/2006,Ontario,3128.8
+06/01/2006,Ontario,3139.36
+07/01/2006,Ontario,3130.56
+08/01/2006,Ontario,3136.24
+09/01/2006,Ontario,3174.64
+10/01/2006,Ontario,3185.76
+11/01/2006,Ontario,3167.76
+12/01/2006,Ontario,3226.6
+01/01/2007,Ontario,3231.08
+02/01/2007,Ontario,3239.56
+03/01/2007,Ontario,3265.32
+04/01/2007,Ontario,3260.8
+05/01/2007,Ontario,3260.16
+06/01/2007,Ontario,3310.6
+07/01/2007,Ontario,3276.28
+08/01/2007,Ontario,3257.64
+09/01/2007,Ontario,3280.44
+10/01/2007,Ontario,3293.24
+11/01/2007,Ontario,3322.76
+12/01/2007,Ontario,3313.48
+01/01/2008,Ontario,3319.84
+02/01/2008,Ontario,3377.72
+03/01/2008,Ontario,3346.6
+04/01/2008,Ontario,3349.0
+05/01/2008,Ontario,3339.68
+06/01/2008,Ontario,3371.68
+07/01/2008,Ontario,3327.2
+08/01/2008,Ontario,3333.04
+09/01/2008,Ontario,3352.76
+10/01/2008,Ontario,3383.2
+11/01/2008,Ontario,3385.56
+12/01/2008,Ontario,3350.0
+01/01/2009,Ontario,3369.16
+02/01/2009,Ontario,3412.44
+03/01/2009,Ontario,3406.48
+04/01/2009,Ontario,3388.88
+05/01/2009,Ontario,3360.6
+06/01/2009,Ontario,3383.12
+07/01/2009,Ontario,3362.08
+08/01/2009,Ontario,3364.6
+09/01/2009,Ontario,3403.04
+10/01/2009,Ontario,3407.84
+11/01/2009,Ontario,3425.2
+12/01/2009,Ontario,3462.0
+01/01/2010,Ontario,3463.6
+02/01/2010,Ontario,3530.16
+03/01/2010,Ontario,3500.64
+04/01/2010,Ontario,3487.32
+05/01/2010,Ontario,3479.36
+06/01/2010,Ontario,3511.6
+07/01/2010,Ontario,3509.08
+08/01/2010,Ontario,3528.44
+09/01/2010,Ontario,3592.12
+10/01/2010,Ontario,3544.16
+11/01/2010,Ontario,3567.52
+12/01/2010,Ontario,3583.76
+01/01/2011,Ontario,3600.16
+02/01/2011,Ontario,3615.64
+03/01/2011,Ontario,3602.64
+04/01/2011,Ontario,3559.64
+05/01/2011,Ontario,3557.4
+06/01/2011,Ontario,3568.96
+07/01/2011,Ontario,3529.28
+08/01/2011,Ontario,3531.92
+09/01/2011,Ontario,3535.4
+10/01/2011,Ontario,3601.28
+11/01/2011,Ontario,3575.6
+12/01/2011,Ontario,3601.96
+01/01/2012,Ontario,3603.4
+02/01/2012,Ontario,3604.56
+03/01/2012,Ontario,3603.0
+04/01/2012,Ontario,3612.32
+05/01/2012,Ontario,3597.2
+06/01/2012,Ontario,3650.04
+07/01/2012,Ontario,3633.84
+08/01/2012,Ontario,3614.0
+09/01/2012,Ontario,3618.28
+10/01/2012,Ontario,3635.36
+11/01/2012,Ontario,3641.68
+12/01/2012,Ontario,3671.4
+01/01/2013,Ontario,3655.92
+02/01/2013,Ontario,3689.88
+03/01/2013,Ontario,3678.28
+04/01/2013,Ontario,3657.52
+05/01/2013,Ontario,3673.28
+06/01/2013,Ontario,3695.88
+07/01/2013,Ontario,3655.48
+08/01/2013,Ontario,3674.56
+09/01/2013,Ontario,3648.92
+10/01/2013,Ontario,3684.48
+11/01/2013,Ontario,3717.0
+12/01/2013,Ontario,3734.12
+01/01/2014,Ontario,3729.92
+02/01/2014,Ontario,3768.0
+03/01/2014,Ontario,3738.08
+04/01/2014,Ontario,3730.52
+05/01/2014,Ontario,3740.64
+06/01/2014,Ontario,3774.08
+07/01/2014,Ontario,3769.04
+08/01/2014,Ontario,3744.64
+09/01/2014,Ontario,3741.2
+10/01/2014,Ontario,3746.84
+11/01/2014,Ontario,3754.68
+12/01/2014,Ontario,3801.52
+01/01/2015,Ontario,3804.4
+02/01/2015,Ontario,3876.68
+03/01/2015,Ontario,3875.0
+04/01/2015,Ontario,3859.2
+01/01/2001,Prince Edward Island,2142.6
+02/01/2001,Prince Edward Island,2128.08
+03/01/2001,Prince Edward Island,2138.84
+04/01/2001,Prince Edward Island,2090.0
+05/01/2001,Prince Edward Island,2089.24
+06/01/2001,Prince Edward Island,2117.88
+07/01/2001,Prince Edward Island,2038.2
+08/01/2001,Prince Edward Island,2137.88
+09/01/2001,Prince Edward Island,2127.56
+10/01/2001,Prince Edward Island,2140.96
+11/01/2001,Prince Edward Island,2142.48
+12/01/2001,Prince Edward Island,2239.2
+01/01/2002,Prince Edward Island,2250.4
+02/01/2002,Prince Edward Island,2204.16
+03/01/2002,Prince Edward Island,2262.12
+04/01/2002,Prince Edward Island,2235.8
+05/01/2002,Prince Edward Island,2241.2
+06/01/2002,Prince Edward Island,2250.6
+07/01/2002,Prince Edward Island,2162.96
+08/01/2002,Prince Edward Island,2164.0
+09/01/2002,Prince Edward Island,2199.04
+10/01/2002,Prince Edward Island,2229.96
+11/01/2002,Prince Edward Island,2260.2
+12/01/2002,Prince Edward Island,2314.72
+01/01/2003,Prince Edward Island,2302.96
+02/01/2003,Prince Edward Island,2303.28
+03/01/2003,Prince Edward Island,2257.36
+04/01/2003,Prince Edward Island,2261.32
+05/01/2003,Prince Edward Island,2278.6
+06/01/2003,Prince Edward Island,2286.36
+07/01/2003,Prince Edward Island,2202.8
+08/01/2003,Prince Edward Island,2233.52
+09/01/2003,Prince Edward Island,2302.56
+10/01/2003,Prince Edward Island,2293.28
+11/01/2003,Prince Edward Island,2322.8
+12/01/2003,Prince Edward Island,2340.76
+01/01/2004,Prince Edward Island,2361.64
+02/01/2004,Prince Edward Island,2306.64
+03/01/2004,Prince Edward Island,2322.92
+04/01/2004,Prince Edward Island,2345.2
+05/01/2004,Prince Edward Island,2426.52
+06/01/2004,Prince Edward Island,2356.36
+07/01/2004,Prince Edward Island,2282.12
+08/01/2004,Prince Edward Island,2254.8
+09/01/2004,Prince Edward Island,2311.68
+10/01/2004,Prince Edward Island,2338.96
+11/01/2004,Prince Edward Island,2373.72
+12/01/2004,Prince Edward Island,2428.36
+01/01/2005,Prince Edward Island,2416.32
+02/01/2005,Prince Edward Island,2436.36
+03/01/2005,Prince Edward Island,2405.72
+04/01/2005,Prince Edward Island,2413.28
+05/01/2005,Prince Edward Island,2399.36
+06/01/2005,Prince Edward Island,2385.28
+07/01/2005,Prince Edward Island,2376.08
+08/01/2005,Prince Edward Island,2356.76
+09/01/2005,Prince Edward Island,2410.84
+10/01/2005,Prince Edward Island,2422.2
+11/01/2005,Prince Edward Island,2444.52
+12/01/2005,Prince Edward Island,2501.68
+01/01/2006,Prince Edward Island,2497.96
+02/01/2006,Prince Edward Island,2461.76
+03/01/2006,Prince Edward Island,2479.12
+04/01/2006,Prince Edward Island,2487.24
+05/01/2006,Prince Edward Island,2512.0
+06/01/2006,Prince Edward Island,2509.6
+07/01/2006,Prince Edward Island,2432.76
+08/01/2006,Prince Edward Island,2429.12
+09/01/2006,Prince Edward Island,2501.24
+10/01/2006,Prince Edward Island,2491.68
+11/01/2006,Prince Edward Island,2520.68
+12/01/2006,Prince Edward Island,2588.44
+01/01/2007,Prince Edward Island,2569.72
+02/01/2007,Prince Edward Island,2583.0
+03/01/2007,Prince Edward Island,2647.16
+04/01/2007,Prince Edward Island,2592.76
+05/01/2007,Prince Edward Island,2580.32
+06/01/2007,Prince Edward Island,2578.72
+07/01/2007,Prince Edward Island,2501.44
+08/01/2007,Prince Edward Island,2510.72
+09/01/2007,Prince Edward Island,2549.08
+10/01/2007,Prince Edward Island,2561.96
+11/01/2007,Prince Edward Island,2628.2
+12/01/2007,Prince Edward Island,2659.92
+01/01/2008,Prince Edward Island,2625.24
+02/01/2008,Prince Edward Island,2648.12
+03/01/2008,Prince Edward Island,2629.64
+04/01/2008,Prince Edward Island,2656.64
+05/01/2008,Prince Edward Island,2676.32
+06/01/2008,Prince Edward Island,2591.8
+07/01/2008,Prince Edward Island,2616.92
+08/01/2008,Prince Edward Island,2601.76
+09/01/2008,Prince Edward Island,2599.76
+10/01/2008,Prince Edward Island,2659.24
+11/01/2008,Prince Edward Island,2658.68
+12/01/2008,Prince Edward Island,2725.96
+01/01/2009,Prince Edward Island,2754.04
+02/01/2009,Prince Edward Island,2796.36
+03/01/2009,Prince Edward Island,2777.28
+04/01/2009,Prince Edward Island,2787.8
+05/01/2009,Prince Edward Island,2782.16
+06/01/2009,Prince Edward Island,2757.88
+07/01/2009,Prince Edward Island,2746.0
+08/01/2009,Prince Edward Island,2696.2
+09/01/2009,Prince Edward Island,2750.6
+10/01/2009,Prince Edward Island,2783.16
+11/01/2009,Prince Edward Island,2749.08
+12/01/2009,Prince Edward Island,2767.52
+01/01/2010,Prince Edward Island,2708.12
+02/01/2010,Prince Edward Island,2860.0
+03/01/2010,Prince Edward Island,2844.88
+04/01/2010,Prince Edward Island,2897.84
+05/01/2010,Prince Edward Island,2917.44
+06/01/2010,Prince Edward Island,2828.76
+07/01/2010,Prince Edward Island,2732.04
+08/01/2010,Prince Edward Island,2718.92
+09/01/2010,Prince Edward Island,2768.52
+10/01/2010,Prince Edward Island,2851.36
+11/01/2010,Prince Edward Island,2872.92
+12/01/2010,Prince Edward Island,2928.92
+01/01/2011,Prince Edward Island,2868.56
+02/01/2011,Prince Edward Island,2872.92
+03/01/2011,Prince Edward Island,2933.56
+04/01/2011,Prince Edward Island,2895.4
+05/01/2011,Prince Edward Island,2914.56
+06/01/2011,Prince Edward Island,2858.16
+07/01/2011,Prince Edward Island,2776.52
+08/01/2011,Prince Edward Island,2783.72
+09/01/2011,Prince Edward Island,2889.16
+10/01/2011,Prince Edward Island,2875.28
+11/01/2011,Prince Edward Island,2955.4
+12/01/2011,Prince Edward Island,2939.44
+01/01/2012,Prince Edward Island,2904.32
+02/01/2012,Prince Edward Island,2933.6
+03/01/2012,Prince Edward Island,3027.2
+04/01/2012,Prince Edward Island,2940.04
+05/01/2012,Prince Edward Island,3025.0
+06/01/2012,Prince Edward Island,3015.92
+07/01/2012,Prince Edward Island,2897.36
+08/01/2012,Prince Edward Island,2882.52
+09/01/2012,Prince Edward Island,2915.28
+10/01/2012,Prince Edward Island,2907.24
+11/01/2012,Prince Edward Island,3000.52
+12/01/2012,Prince Edward Island,3012.08
+01/01/2013,Prince Edward Island,2954.68
+02/01/2013,Prince Edward Island,2976.4
+03/01/2013,Prince Edward Island,3047.4
+04/01/2013,Prince Edward Island,3025.56
+05/01/2013,Prince Edward Island,3079.32
+06/01/2013,Prince Edward Island,3022.52
+07/01/2013,Prince Edward Island,2954.8
+08/01/2013,Prince Edward Island,2945.92
+09/01/2013,Prince Edward Island,2985.4
+10/01/2013,Prince Edward Island,3004.4
+11/01/2013,Prince Edward Island,3028.0
+12/01/2013,Prince Edward Island,3108.6
+01/01/2014,Prince Edward Island,3083.44
+02/01/2014,Prince Edward Island,3081.04
+03/01/2014,Prince Edward Island,3099.56
+04/01/2014,Prince Edward Island,3119.6
+05/01/2014,Prince Edward Island,3094.48
+06/01/2014,Prince Edward Island,3135.04
+07/01/2014,Prince Edward Island,3031.8
+08/01/2014,Prince Edward Island,3037.56
+09/01/2014,Prince Edward Island,3031.44
+10/01/2014,Prince Edward Island,3096.96
+11/01/2014,Prince Edward Island,3130.12
+12/01/2014,Prince Edward Island,3214.64
+01/01/2015,Prince Edward Island,3177.56
+02/01/2015,Prince Edward Island,3169.04
+03/01/2015,Prince Edward Island,3200.4
+04/01/2015,Prince Edward Island,3239.68
+01/01/2001,Quebec,2499.24
+02/01/2001,Quebec,2495.72
+03/01/2001,Quebec,2491.76
+04/01/2001,Quebec,2476.48
+05/01/2001,Quebec,2475.6
+06/01/2001,Quebec,2494.0
+07/01/2001,Quebec,2479.92
+08/01/2001,Quebec,2500.2
+09/01/2001,Quebec,2488.68
+10/01/2001,Quebec,2495.2
+11/01/2001,Quebec,2503.32
+12/01/2001,Quebec,2524.36
+01/01/2002,Quebec,2555.92
+02/01/2002,Quebec,2502.04
+03/01/2002,Quebec,2500.2
+04/01/2002,Quebec,2555.24
+05/01/2002,Quebec,2574.72
+06/01/2002,Quebec,2548.4
+07/01/2002,Quebec,2561.04
+08/01/2002,Quebec,2551.92
+09/01/2002,Quebec,2540.0
+10/01/2002,Quebec,2612.88
+11/01/2002,Quebec,2553.6
+12/01/2002,Quebec,2608.04
+01/01/2003,Quebec,2591.04
+02/01/2003,Quebec,2604.72
+03/01/2003,Quebec,2580.24
+04/01/2003,Quebec,2601.28
+05/01/2003,Quebec,2620.24
+06/01/2003,Quebec,2627.2
+07/01/2003,Quebec,2659.84
+08/01/2003,Quebec,2592.24
+09/01/2003,Quebec,2633.92
+10/01/2003,Quebec,2669.12
+11/01/2003,Quebec,2655.8
+12/01/2003,Quebec,2677.68
+01/01/2004,Quebec,2646.04
+02/01/2004,Quebec,2652.0
+03/01/2004,Quebec,2655.36
+04/01/2004,Quebec,2685.68
+05/01/2004,Quebec,2688.84
+06/01/2004,Quebec,2705.08
+07/01/2004,Quebec,2685.44
+08/01/2004,Quebec,2676.12
+09/01/2004,Quebec,2773.44
+10/01/2004,Quebec,2675.48
+11/01/2004,Quebec,2695.44
+12/01/2004,Quebec,2752.72
+01/01/2005,Quebec,2724.24
+02/01/2005,Quebec,2762.76
+03/01/2005,Quebec,2795.32
+04/01/2005,Quebec,2727.84
+05/01/2005,Quebec,2742.36
+06/01/2005,Quebec,2800.64
+07/01/2005,Quebec,2776.32
+08/01/2005,Quebec,2782.48
+09/01/2005,Quebec,2849.72
+10/01/2005,Quebec,2788.84
+11/01/2005,Quebec,2771.16
+12/01/2005,Quebec,2813.32
+01/01/2006,Quebec,2753.12
+02/01/2006,Quebec,2779.12
+03/01/2006,Quebec,2836.52
+04/01/2006,Quebec,2799.08
+05/01/2006,Quebec,2795.76
+06/01/2006,Quebec,2861.92
+07/01/2006,Quebec,2828.6
+08/01/2006,Quebec,2890.56
+09/01/2006,Quebec,2800.64
+10/01/2006,Quebec,2819.96
+11/01/2006,Quebec,2905.52
+12/01/2006,Quebec,2870.04
+01/01/2007,Quebec,2858.16
+02/01/2007,Quebec,2898.68
+03/01/2007,Quebec,2966.8
+04/01/2007,Quebec,2914.08
+05/01/2007,Quebec,3011.64
+06/01/2007,Quebec,2934.8
+07/01/2007,Quebec,2951.24
+08/01/2007,Quebec,2965.44
+09/01/2007,Quebec,2949.16
+10/01/2007,Quebec,2938.16
+11/01/2007,Quebec,2994.44
+12/01/2007,Quebec,2985.6
+01/01/2008,Quebec,2998.56
+02/01/2008,Quebec,2940.16
+03/01/2008,Quebec,2999.24
+04/01/2008,Quebec,3020.6
+05/01/2008,Quebec,3037.56
+06/01/2008,Quebec,3002.52
+07/01/2008,Quebec,3075.72
+08/01/2008,Quebec,2945.36
+09/01/2008,Quebec,2972.64
+10/01/2008,Quebec,3050.44
+11/01/2008,Quebec,2996.32
+12/01/2008,Quebec,2999.08
+01/01/2009,Quebec,2966.48
+02/01/2009,Quebec,3011.68
+03/01/2009,Quebec,3005.56
+04/01/2009,Quebec,3022.32
+05/01/2009,Quebec,3002.68
+06/01/2009,Quebec,3065.08
+07/01/2009,Quebec,3071.96
+08/01/2009,Quebec,3044.04
+09/01/2009,Quebec,3056.24
+10/01/2009,Quebec,3042.36
+11/01/2009,Quebec,3048.48
+12/01/2009,Quebec,3071.08
+01/01/2010,Quebec,3038.04
+02/01/2010,Quebec,3083.72
+03/01/2010,Quebec,3083.16
+04/01/2010,Quebec,3100.84
+05/01/2010,Quebec,3119.28
+06/01/2010,Quebec,3167.68
+07/01/2010,Quebec,3138.52
+08/01/2010,Quebec,3139.72
+09/01/2010,Quebec,3183.96
+10/01/2010,Quebec,3158.2
+11/01/2010,Quebec,3191.04
+12/01/2010,Quebec,3216.56
+01/01/2011,Quebec,3165.0
+02/01/2011,Quebec,3201.88
+03/01/2011,Quebec,3211.52
+04/01/2011,Quebec,3174.12
+05/01/2011,Quebec,3185.8
+06/01/2011,Quebec,3237.68
+07/01/2011,Quebec,3217.04
+08/01/2011,Quebec,3176.0
+09/01/2011,Quebec,3218.84
+10/01/2011,Quebec,3247.0
+11/01/2011,Quebec,3255.76
+12/01/2011,Quebec,3274.8
+01/01/2012,Quebec,3202.48
+02/01/2012,Quebec,3238.8
+03/01/2012,Quebec,3275.36
+04/01/2012,Quebec,3250.12
+05/01/2012,Quebec,3325.48
+06/01/2012,Quebec,3241.56
+07/01/2012,Quebec,3282.36
+08/01/2012,Quebec,3344.24
+09/01/2012,Quebec,3317.92
+10/01/2012,Quebec,3321.76
+11/01/2012,Quebec,3350.88
+12/01/2012,Quebec,3330.72
+01/01/2013,Quebec,3294.64
+02/01/2013,Quebec,3306.16
+03/01/2013,Quebec,3242.88
+04/01/2013,Quebec,3299.4
+05/01/2013,Quebec,3366.76
+06/01/2013,Quebec,3355.64
+07/01/2013,Quebec,3335.8
+08/01/2013,Quebec,3330.4
+09/01/2013,Quebec,3330.16
+10/01/2013,Quebec,3405.8
+11/01/2013,Quebec,3308.68
+12/01/2013,Quebec,3376.36
+01/01/2014,Quebec,3337.88
+02/01/2014,Quebec,3353.4
+03/01/2014,Quebec,3345.36
+04/01/2014,Quebec,3371.88
+05/01/2014,Quebec,3425.08
+06/01/2014,Quebec,3428.32
+07/01/2014,Quebec,3498.84
+08/01/2014,Quebec,3374.16
+09/01/2014,Quebec,3371.68
+10/01/2014,Quebec,3435.28
+11/01/2014,Quebec,3378.04
+12/01/2014,Quebec,3448.48
+01/01/2015,Quebec,3386.92
+02/01/2015,Quebec,3430.12
+03/01/2015,Quebec,3444.4
+04/01/2015,Quebec,3525.08
+01/01/2001,Saskatchewan,2386.12
+02/01/2001,Saskatchewan,2380.36
+03/01/2001,Saskatchewan,2356.36
+04/01/2001,Saskatchewan,2357.48
+05/01/2001,Saskatchewan,2349.64
+06/01/2001,Saskatchewan,2390.6
+07/01/2001,Saskatchewan,2361.24
+08/01/2001,Saskatchewan,2394.52
+09/01/2001,Saskatchewan,2403.8
+10/01/2001,Saskatchewan,2414.76
+11/01/2001,Saskatchewan,2363.6
+12/01/2001,Saskatchewan,2423.08
+01/01/2002,Saskatchewan,2416.68
+02/01/2002,Saskatchewan,2397.08
+03/01/2002,Saskatchewan,2420.52
+04/01/2002,Saskatchewan,2446.68
+05/01/2002,Saskatchewan,2392.72
+06/01/2002,Saskatchewan,2414.56
+07/01/2002,Saskatchewan,2440.6
+08/01/2002,Saskatchewan,2407.52
+09/01/2002,Saskatchewan,2456.48
+10/01/2002,Saskatchewan,2441.84
+11/01/2002,Saskatchewan,2479.84
+12/01/2002,Saskatchewan,2513.36
+01/01/2003,Saskatchewan,2488.32
+02/01/2003,Saskatchewan,2528.08
+03/01/2003,Saskatchewan,2493.8
+04/01/2003,Saskatchewan,2524.24
+05/01/2003,Saskatchewan,2484.72
+06/01/2003,Saskatchewan,2559.76
+07/01/2003,Saskatchewan,2499.16
+08/01/2003,Saskatchewan,2547.64
+09/01/2003,Saskatchewan,2588.84
+10/01/2003,Saskatchewan,2543.16
+11/01/2003,Saskatchewan,2571.8
+12/01/2003,Saskatchewan,2582.88
+01/01/2004,Saskatchewan,2566.92
+02/01/2004,Saskatchewan,2572.72
+03/01/2004,Saskatchewan,2587.64
+04/01/2004,Saskatchewan,2540.08
+05/01/2004,Saskatchewan,2620.32
+06/01/2004,Saskatchewan,2594.68
+07/01/2004,Saskatchewan,2611.28
+08/01/2004,Saskatchewan,2626.76
+09/01/2004,Saskatchewan,2606.28
+10/01/2004,Saskatchewan,2648.24
+11/01/2004,Saskatchewan,2677.4
+12/01/2004,Saskatchewan,2667.04
+01/01/2005,Saskatchewan,2724.88
+02/01/2005,Saskatchewan,2721.76
+03/01/2005,Saskatchewan,2642.84
+04/01/2005,Saskatchewan,2678.56
+05/01/2005,Saskatchewan,2716.52
+06/01/2005,Saskatchewan,2692.76
+07/01/2005,Saskatchewan,2703.92
+08/01/2005,Saskatchewan,2740.56
+09/01/2005,Saskatchewan,2741.64
+10/01/2005,Saskatchewan,2774.96
+11/01/2005,Saskatchewan,2767.0
+12/01/2005,Saskatchewan,2753.96
+01/01/2006,Saskatchewan,2814.76
+02/01/2006,Saskatchewan,2789.16
+03/01/2006,Saskatchewan,2778.32
+04/01/2006,Saskatchewan,2822.92
+05/01/2006,Saskatchewan,2810.4
+06/01/2006,Saskatchewan,2829.12
+07/01/2006,Saskatchewan,2828.56
+08/01/2006,Saskatchewan,2804.12
+09/01/2006,Saskatchewan,2840.48
+10/01/2006,Saskatchewan,2868.52
+11/01/2006,Saskatchewan,2822.4
+12/01/2006,Saskatchewan,2906.2
+01/01/2007,Saskatchewan,2930.88
+02/01/2007,Saskatchewan,2929.08
+03/01/2007,Saskatchewan,2955.44
+04/01/2007,Saskatchewan,2934.28
+05/01/2007,Saskatchewan,2939.36
+06/01/2007,Saskatchewan,3018.52
+07/01/2007,Saskatchewan,2984.8
+08/01/2007,Saskatchewan,2956.32
+09/01/2007,Saskatchewan,3044.44
+10/01/2007,Saskatchewan,3029.68
+11/01/2007,Saskatchewan,3027.52
+12/01/2007,Saskatchewan,3076.92
+01/01/2008,Saskatchewan,3033.72
+02/01/2008,Saskatchewan,3104.68
+03/01/2008,Saskatchewan,3099.28
+04/01/2008,Saskatchewan,3127.36
+05/01/2008,Saskatchewan,3078.48
+06/01/2008,Saskatchewan,3137.2
+07/01/2008,Saskatchewan,3094.24
+08/01/2008,Saskatchewan,3164.76
+09/01/2008,Saskatchewan,3186.64
+10/01/2008,Saskatchewan,3163.4
+11/01/2008,Saskatchewan,3189.24
+12/01/2008,Saskatchewan,3162.44
+01/01/2009,Saskatchewan,3190.88
+02/01/2009,Saskatchewan,3191.12
+03/01/2009,Saskatchewan,3184.64
+04/01/2009,Saskatchewan,3132.44
+05/01/2009,Saskatchewan,3163.0
+06/01/2009,Saskatchewan,3209.92
+07/01/2009,Saskatchewan,3168.8
+08/01/2009,Saskatchewan,3186.52
+09/01/2009,Saskatchewan,3246.8
+10/01/2009,Saskatchewan,3249.52
+11/01/2009,Saskatchewan,3258.72
+12/01/2009,Saskatchewan,3300.68
+01/01/2010,Saskatchewan,3329.84
+02/01/2010,Saskatchewan,3308.68
+03/01/2010,Saskatchewan,3340.68
+04/01/2010,Saskatchewan,3340.16
+05/01/2010,Saskatchewan,3324.68
+06/01/2010,Saskatchewan,3377.12
+07/01/2010,Saskatchewan,3337.08
+08/01/2010,Saskatchewan,3390.12
+09/01/2010,Saskatchewan,3384.4
+10/01/2010,Saskatchewan,3448.84
+11/01/2010,Saskatchewan,3436.8
+12/01/2010,Saskatchewan,3442.08
+01/01/2011,Saskatchewan,3525.72
+02/01/2011,Saskatchewan,3439.96
+03/01/2011,Saskatchewan,3449.84
+04/01/2011,Saskatchewan,3492.0
+05/01/2011,Saskatchewan,3398.44
+06/01/2011,Saskatchewan,3407.0
+07/01/2011,Saskatchewan,3460.12
+08/01/2011,Saskatchewan,3533.24
+09/01/2011,Saskatchewan,3589.08
+10/01/2011,Saskatchewan,3567.36
+11/01/2011,Saskatchewan,3579.32
+12/01/2011,Saskatchewan,3564.88
+01/01/2012,Saskatchewan,3636.0
+02/01/2012,Saskatchewan,3624.72
+03/01/2012,Saskatchewan,3646.52
+04/01/2012,Saskatchewan,3610.44
+05/01/2012,Saskatchewan,3585.44
+06/01/2012,Saskatchewan,3658.32
+07/01/2012,Saskatchewan,3707.96
+08/01/2012,Saskatchewan,3728.72
+09/01/2012,Saskatchewan,3711.16
+10/01/2012,Saskatchewan,3725.4
+11/01/2012,Saskatchewan,3692.0
+12/01/2012,Saskatchewan,3733.28
+01/01/2013,Saskatchewan,3695.84
+02/01/2013,Saskatchewan,3808.72
+03/01/2013,Saskatchewan,3815.88
+04/01/2013,Saskatchewan,3744.04
+05/01/2013,Saskatchewan,3738.56
+06/01/2013,Saskatchewan,3793.36
+07/01/2013,Saskatchewan,3785.24
+08/01/2013,Saskatchewan,3768.8
+09/01/2013,Saskatchewan,3767.28
+10/01/2013,Saskatchewan,3775.68
+11/01/2013,Saskatchewan,3833.32
+12/01/2013,Saskatchewan,3858.12
+01/01/2014,Saskatchewan,3764.96
+02/01/2014,Saskatchewan,3880.2
+03/01/2014,Saskatchewan,3868.2
+04/01/2014,Saskatchewan,3902.4
+05/01/2014,Saskatchewan,3834.72
+06/01/2014,Saskatchewan,3921.04
+07/01/2014,Saskatchewan,3912.56
+08/01/2014,Saskatchewan,3936.52
+09/01/2014,Saskatchewan,3916.76
+10/01/2014,Saskatchewan,3939.8
+11/01/2014,Saskatchewan,3969.24
+12/01/2014,Saskatchewan,3965.2
+01/01/2015,Saskatchewan,3930.4
+02/01/2015,Saskatchewan,3964.84
+03/01/2015,Saskatchewan,3955.16
+04/01/2015,Saskatchewan,3909.4
