@@ -4049,7 +4049,7 @@
               <zone h='94678' id='1' param='vert' removable='false' type-v2='layout-flow' w='99094' x='453' y='4575'>
                 <zone h='7376' id='4' paired-zone-id='5' removable='false' type-v2='flipboard-nav' w='99094' x='453' y='4575' />
                 <zone h='87302' id='5' paired-zone-id='4' removable='false' type-v2='flipboard' w='99094' x='453' y='11951'>
-                  <flipboard active-id='2' nav-type='number' show-nav-arrows='true'>
+                  <flipboard active-id='14' nav-type='number' show-nav-arrows='true'>
                     <story-points>
                       <story-point captured-sheet='Title Page' id='14'>
                         <capturedDeltas>
@@ -4079,9 +4079,6 @@
                       <story-point captured-sheet='DB Office price index trend' id='3' />
                       <story-point captured-sheet='DB HPI regional trends' id='4'>
                         <capturedDeltas>
-                          <worksheet name='Canada house price heatmap'>
-                            <selection-collection />
-                          </worksheet>
                           <dashboard name='DB HPI regional trends'>
                             <zone id='4'>
                               <formatted-text>
@@ -4102,34 +4099,6 @@ The former group, group 1 on the lower left, increases dramatically 2009-2013, t
                               </formatted-text>
                             </zone>
                           </dashboard>
-                          <worksheet name='HPI Trends Group2'>
-                            <selection-collection>
-                              <tuple-selection>
-                                <tuple-reference>
-                                  <tuple-descriptor>
-                                    <pane-descriptor>
-                                      <x-fields>
-                                        <field>[federated.0eismck03cozic1b9iqkf0pi9nj4].[yr:Date (real!estate!prices!All!Years):ok]</field>
-                                      </x-fields>
-                                      <y-fields>
-                                        <field>[federated.0eismck03cozic1b9iqkf0pi9nj4].[avg:Composite_HPI (real!estate!prices!All!Years):qk]</field>
-                                      </y-fields>
-                                    </pane-descriptor>
-                                    <columns>
-                                      <field>[federated.0eismck03cozic1b9iqkf0pi9nj4].[avg:Composite_HPI (real!estate!prices!All!Years):qk]</field>
-                                      <field>[federated.0eismck03cozic1b9iqkf0pi9nj4].[none:Region2:nk]</field>
-                                      <field>[federated.0eismck03cozic1b9iqkf0pi9nj4].[yr:Date (real!estate!prices!All!Years):ok]</field>
-                                    </columns>
-                                  </tuple-descriptor>
-                                  <tuple>
-                                    <value>239.23333333333338</value>
-                                    <value>&quot;Mississauga&quot;</value>
-                                    <value>2018</value>
-                                  </tuple>
-                                </tuple-reference>
-                              </tuple-selection>
-                            </selection-collection>
-                          </worksheet>
                         </capturedDeltas>
                       </story-point>
                       <story-point captured-sheet='DB Cdn earning and HPI' id='7' />
@@ -4145,36 +4114,7 @@ The former group, group 1 on the lower left, increases dramatically 2009-2013, t
                           </dashboard>
                         </capturedDeltas>
                       </story-point>
-                      <story-point captured-sheet='DB Crises The impact of financial crises' id='10'>
-                        <capturedDeltas>
-                          <worksheet name='Housing Price Index'>
-                            <selection-collection>
-                              <tuple-selection>
-                                <tuple-reference>
-                                  <tuple-descriptor>
-                                    <pane-descriptor>
-                                      <x-fields>
-                                        <field>[federated.0eismck03cozic1b9iqkf0pi9nj4].[yr:Date:ok]</field>
-                                      </x-fields>
-                                      <y-fields>
-                                        <field>[federated.0eismck03cozic1b9iqkf0pi9nj4].[avg:Total (house and land):qk]</field>
-                                      </y-fields>
-                                    </pane-descriptor>
-                                    <columns>
-                                      <field>[federated.0eismck03cozic1b9iqkf0pi9nj4].[avg:Total (house and land):qk]</field>
-                                      <field>[federated.0eismck03cozic1b9iqkf0pi9nj4].[yr:Date:ok]</field>
-                                    </columns>
-                                  </tuple-descriptor>
-                                  <tuple>
-                                    <value>68.409090909090892</value>
-                                    <value>2004</value>
-                                  </tuple>
-                                </tuple-reference>
-                              </tuple-selection>
-                            </selection-collection>
-                          </worksheet>
-                        </capturedDeltas>
-                      </story-point>
+                      <story-point captured-sheet='DB Crises The impact of financial crises' id='10' />
                       <story-point captured-sheet='DB Crises housing starts' id='11' />
                       <story-point captured-sheet='DB Crises CPI' id='12' />
                       <story-point captured-sheet='DB Crises CPI vs HPI' id='13'>
@@ -4977,7 +4917,7 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
       </cards>
       <simple-id uuid='{BD5BA4CC-D278-4B46-AC59-30A7AF70DBA1}' />
     </window>
-    <window class='dashboard' maximized='true' name='DB Office price index trend'>
+    <window class='dashboard' name='DB Office price index trend'>
       <viewpoints>
         <viewpoint name='Office price index trend'>
           <zoom type='entire-view' />
@@ -5293,7 +5233,7 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
       <active id='-1' />
       <simple-id uuid='{05A3D952-D0F4-4F21-921B-DBE9628A0770}' />
     </window>
-    <window class='dashboard' name='Costs and Trends in Canadian Home Ownership'>
+    <window class='dashboard' maximized='true' name='Costs and Trends in Canadian Home Ownership'>
       <viewpoints />
       <active id='-1' />
       <simple-id uuid='{CDE10829-C8D5-4399-8B77-55D9AA82AB4A}' />
