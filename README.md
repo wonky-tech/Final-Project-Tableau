@@ -51,7 +51,7 @@ I chose to work on option 1, with housing data and economic indices like earning
 11. Consumer Price Index: Major financial crises have a measurable impact on the Consumer Price Index, a measure of inflation that excludes housing costs.
 12. **CPI vs HPI**: There is a relationship between the Housing Price Index and the Consumer Price Index, with an r-value of 0.47.
 
-~**A Notable feature of the CPI graph**~: The apparently high inflation at the start of the graph is not an error. Canada experienced high inflation in the seventies and early eighties. Anti-inflationary measures, like interest rate increases, controlled inflation but also triggered a recession.
+**A Notable feature of the CPI graph**: The apparently high inflation at the start of the graph is not an error. Canada experienced high inflation in the seventies and early eighties. Anti-inflationary measures, like interest rate increases, controlled inflation but also triggered a recession.
 
 ## Challenges 
 Making some of the mentioned file transformations using Python on Excel sheets was a stretch for me. I'd previously mostly worked on CSV files. It was also a challenge ensuring that the graphs were giving sensible images to reflect the data. For instance, I didn't realise at first that CPI data needed to be filtered for percentage or index, because the two were on the same sheet.
