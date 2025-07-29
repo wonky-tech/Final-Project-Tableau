@@ -20,7 +20,7 @@
     <WorksheetBackgroundTransparency />
     <ZoneBackgroundTransparency />
   </document-format-change-manifest>
-  <repository-location id='FinalProjectTableau_17534797159890' path='/workbooks' revision='1.3' />
+  <repository-location id='FinalProjectTableau_17534797159890' path='/workbooks' revision='1.4' />
   <preferences>
     <preference name='ui.encoding.shelf.height' value='24' />
     <preference name='ui.shelf.height' value='26' />
@@ -1043,7 +1043,7 @@
         </drill-path>
       </drill-paths>
       <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
-        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='/var/folders/qc/drfqlrt930zff3vhmp7pm4240000gn/T/tableau-temp/#TableauTemp_0ea8cdy07r3zb61brsjdd0ihfe80.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='07/25/2025 06:28:26 PM' username='tableau_internal_user'>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='/var/folders/qc/drfqlrt930zff3vhmp7pm4240000gn/T/tableau-temp/#TableauTemp_0um1oim0rkg23t17on90h09vic0x.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='07/29/2025 12:27:29 AM' username='tableau_internal_user'>
           <relation type='collection'>
             <relation name='housing_price_index.csv_AF4EC9EBE0BA4C1A8A6E2A062FB499E6' table='[Extract].[housing_price_index.csv_AF4EC9EBE0BA4C1A8A6E2A062FB499E6]' type='table' />
             <relation name='consumer_index.csv_0528CE4BA9C145289700A00C4571845D' table='[Extract].[consumer_index.csv_0528CE4BA9C145289700A00C4571845D]' type='table' />
@@ -1508,14 +1508,6 @@
       <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
       <style>
         <style-rule element='mark'>
-          <encoding attr='color' field='[:Measure Names]' type='palette'>
-            <map to='#4e79a7'>
-              <bucket>&quot;[federated.0eismck03cozic1b9iqkf0pi9nj4].[avg:Composite_HPI (real!estate!prices!All!Years):qk]&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>&quot;[federated.0eismck03cozic1b9iqkf0pi9nj4].[sum:Earnings:qk]&quot;</bucket>
-            </map>
-          </encoding>
           <encoding attr='color' field='[none:Region2:nk]' type='palette'>
             <map to='#499894'>
               <bucket>&quot;Greater Moncton&quot;</bucket>
@@ -1642,6 +1634,14 @@
             </map>
             <map to='#ffbe7d'>
               <bucket>&quot;Niagara Region&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0eismck03cozic1b9iqkf0pi9nj4].[avg:Composite_HPI (real!estate!prices!All!Years):qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0eismck03cozic1b9iqkf0pi9nj4].[sum:Earnings:qk]&quot;</bucket>
             </map>
           </encoding>
         </style-rule>
@@ -4036,8 +4036,8 @@
       <size sizing-mode='automatic' />
       <zones>
         <zone h='100000' id='2' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='98506' id='9' param='vert' removable='false' type-v2='layout-flow' w='99074' x='463' y='747'>
-            <zone h='3828' id='10' type-v2='title' w='99074' x='463' y='747'>
+          <zone h='98506' id='9' param='vert' removable='false' type-v2='layout-flow' w='98994' x='503' y='747'>
+            <zone h='3828' id='10' type-v2='title' w='98994' x='503' y='747'>
               <zone-style>
                 <format attr='border-color' value='#000000' />
                 <format attr='border-style' value='none' />
@@ -4045,11 +4045,11 @@
                 <format attr='margin' value='4' />
               </zone-style>
             </zone>
-            <zone h='94678' id='7' param='vert' removable='false' type-v2='layout-flow' w='99074' x='463' y='4575'>
-              <zone h='94678' id='1' param='vert' removable='false' type-v2='layout-flow' w='99074' x='463' y='4575'>
-                <zone h='7376' id='4' paired-zone-id='5' removable='false' type-v2='flipboard-nav' w='99074' x='463' y='4575' />
-                <zone h='87302' id='5' paired-zone-id='4' removable='false' type-v2='flipboard' w='99074' x='463' y='11951'>
-                  <flipboard active-id='13' nav-type='number' show-nav-arrows='true'>
+            <zone h='94678' id='7' param='vert' removable='false' type-v2='layout-flow' w='98994' x='503' y='4575'>
+              <zone h='94678' id='1' param='vert' removable='false' type-v2='layout-flow' w='98994' x='503' y='4575'>
+                <zone h='7376' id='4' paired-zone-id='5' removable='false' type-v2='flipboard-nav' w='98994' x='503' y='4575' />
+                <zone h='87302' id='5' paired-zone-id='4' removable='false' type-v2='flipboard' w='98994' x='503' y='11951'>
+                  <flipboard active-id='14' nav-type='number' show-nav-arrows='true'>
                     <story-points>
                       <story-point captured-sheet='Title Page' id='14'>
                         <capturedDeltas>
@@ -4082,6 +4082,13 @@
                           <worksheet name='Canada house price heatmap'>
                             <selection-collection />
                           </worksheet>
+                          <dashboard name='DB Office price index trend (2)'>
+                            <zone id='4'>
+                              <formatted-text>
+                                <run>The heatmap of benchmark house prices shows relative differences between regions and over the years. Darker shading shows the gap between metropolitan centres and other areas is growing.</run>
+                              </formatted-text>
+                            </zone>
+                          </dashboard>
                         </capturedDeltas>
                       </story-point>
                       <story-point captured-sheet='HPI Dashboard' id='5'>
@@ -4091,7 +4098,7 @@
                               <formatted-text>
                                 <run>Regional trends in house prices shows a difference between some regions (Regina, Saskatoon, Winnipeg, St Johns and the rest of NL) and mostly GTA, Ontario, BC and major metropolises. 
 
-The former group, on the lower left, increases dramatically 2009-2013, then drops off in recent years. In contrast, the latter group on the lower right shows slower growth for the same time period and a rapid increase starting around 2015.</run>
+The former group, group 1 on the lower left, increases dramatically 2009-2013, then drops off in recent years. In contrast, the latter group 2, on the lower right, shows slower growth for the same time period and a rapid increase starting around 2015.</run>
                               </formatted-text>
                             </zone>
                           </dashboard>
@@ -4099,7 +4106,17 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
                       </story-point>
                       <story-point captured-sheet='DB Cdn earning and HPI' id='7' />
                       <story-point captured-sheet='DB housing cost as multiple of earnings' id='8' />
-                      <story-point captured-sheet='DB Crises avg monthly earnings' id='9' />
+                      <story-point captured-sheet='DB Crises avg monthly earnings' id='9'>
+                        <capturedDeltas>
+                          <dashboard name='DB Crises avg monthly earnings'>
+                            <zone id='4'>
+                              <formatted-text>
+                                <run>I only have data for two of the financial crises mentioned, but they seem to have little effect on average earnings. Later slides show a contrasting larger effect on other economic indicators.</run>
+                              </formatted-text>
+                            </zone>
+                          </dashboard>
+                        </capturedDeltas>
+                      </story-point>
                       <story-point captured-sheet='DB Crises The impact of financial crises' id='10' />
                       <story-point captured-sheet='DB Crises housing starts' id='11' />
                       <story-point captured-sheet='DB Crises CPI' id='12' />
@@ -4609,9 +4626,9 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
       <size sizing-mode='automatic' />
       <zones>
         <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='87768' id='7' param='horz' type-v2='layout-flow' w='99074' x='463' y='747'>
-            <zone h='87768' id='5' type-v2='layout-basic' w='89815' x='463' y='747'>
-              <zone h='43885' id='3' name='HPI Trends by Region' w='89815' x='463' y='747'>
+          <zone h='87768' id='7' param='horz' type-v2='layout-flow' w='98994' x='503' y='747'>
+            <zone h='87768' id='5' type-v2='layout-basic' w='88944' x='503' y='747'>
+              <zone h='43885' id='3' name='HPI Trends by Region' w='88944' x='503' y='747'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -4619,7 +4636,7 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='43883' id='9' name='HPI Trends Group1' w='44907' x='463' y='44632'>
+              <zone h='43883' id='9' name='HPI Trends Group1' w='44471' x='503' y='44632'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -4627,7 +4644,7 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='43883' id='10' name='HPI Trends Group2' w='44908' x='45370' y='44632'>
+              <zone h='43883' id='10' name='HPI Trends Group2' w='44473' x='44974' y='44632'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -4636,8 +4653,8 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
                 </zone-style>
               </zone>
             </zone>
-            <zone fixed-size='160' h='87768' id='6' is-fixed='true' param='vert' type-v2='layout-flow' w='9259' x='90278' y='747'>
-              <zone h='78992' id='8' name='HPI Trends by Region' pane-specification-id='0' param='[federated.0eismck03cozic1b9iqkf0pi9nj4].[none:Region2:nk]' type-v2='color' w='9259' x='90278' y='747'>
+            <zone fixed-size='160' h='87768' id='6' is-fixed='true' param='vert' type-v2='layout-flow' w='10050' x='89447' y='747'>
+              <zone h='78992' id='8' name='HPI Trends by Region' pane-specification-id='0' param='[federated.0eismck03cozic1b9iqkf0pi9nj4].[none:Region2:nk]' type-v2='color' w='10050' x='89447' y='747'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -4647,7 +4664,7 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
               </zone>
             </zone>
           </zone>
-          <zone forceUpdate='true' h='10738' id='153' type-v2='text' w='99074' x='463' y='88515'>
+          <zone forceUpdate='true' h='10738' id='153' type-v2='text' w='98994' x='503' y='88515'>
             <formatted-text>
               <run>Regional trends in house prices shows a difference between some regions (Regina, Saskatoon, Winnipeg, St Johns and the rest of NL) and mostly GTA, Ontario and major metropolises. 
 
@@ -4672,9 +4689,9 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1000' minheight='1000' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='205' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98506' id='204' param='vert' type-v2='layout-flow' w='99074' x='463' y='747'>
-                <zone fixed-size='280' h='43885' id='3' is-fixed='true' name='HPI Trends by Region' w='89815' x='463' y='747'>
+            <zone h='100000' id='211' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98506' id='210' param='vert' type-v2='layout-flow' w='98994' x='503' y='747'>
+                <zone fixed-size='280' h='43885' id='3' is-fixed='true' name='HPI Trends by Region' w='88944' x='503' y='747'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -4683,7 +4700,7 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='78992' id='8' name='HPI Trends by Region' pane-specification-id='0' param='[federated.0eismck03cozic1b9iqkf0pi9nj4].[none:Region2:nk]' type-v2='color' w='9259' x='90278' y='747'>
+                <zone h='78992' id='8' name='HPI Trends by Region' pane-specification-id='0' param='[federated.0eismck03cozic1b9iqkf0pi9nj4].[none:Region2:nk]' type-v2='color' w='10050' x='89447' y='747'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -4692,7 +4709,7 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='43883' id='9' is-fixed='true' name='HPI Trends Group1' w='44907' x='463' y='44632'>
+                <zone fixed-size='280' h='43883' id='9' is-fixed='true' name='HPI Trends Group1' w='44471' x='503' y='44632'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -4701,7 +4718,7 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='43883' id='10' is-fixed='true' name='HPI Trends Group2' w='44908' x='45370' y='44632'>
+                <zone fixed-size='280' h='43883' id='10' is-fixed='true' name='HPI Trends Group2' w='44473' x='44974' y='44632'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -4710,7 +4727,7 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone forceUpdate='true' h='10738' id='153' type-v2='text' w='99074' x='463' y='88515'>
+                <zone forceUpdate='true' h='10738' id='153' type-v2='text' w='98994' x='503' y='88515'>
                   <formatted-text>
                     <run>Regional trends in house prices shows a difference between some regions (Regina, Saskatoon, Winnipeg, St Johns and the rest of NL) and mostly GTA, Ontario and major metropolises. 
 
@@ -4742,7 +4759,7 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
       <size sizing-mode='automatic' />
       <zones>
         <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone forceUpdate='true' h='98506' id='3' type-v2='text' w='99074' x='463' y='747'>
+          <zone forceUpdate='true' h='98506' id='3' type-v2='text' w='98994' x='503' y='747'>
             <formatted-text>
               <run bold='true' fontalignment='1' fontcolor='#ffffff' fontsize='20'>Costs and Trends in Canadian Home Ownership</run>
             </formatted-text>
@@ -4766,9 +4783,9 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='14' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98506' id='13' param='vert' type-v2='layout-flow' w='99074' x='463' y='747'>
-                <zone forceUpdate='true' h='98506' id='3' type-v2='text' w='99074' x='463' y='747'>
+            <zone h='100000' id='20' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98506' id='19' param='vert' type-v2='layout-flow' w='98994' x='503' y='747'>
+                <zone forceUpdate='true' h='98506' id='3' type-v2='text' w='98994' x='503' y='747'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontcolor='#ffffff' fontsize='20'>Costs and Trends in Canadian Home Ownership</run>
                   </formatted-text>
@@ -4796,7 +4813,7 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
     </dashboard>
   </dashboards>
   <windows source-height='30'>
-    <window class='dashboard' maximized='true' name='Title Page'>
+    <window class='dashboard' name='Title Page'>
       <viewpoints />
       <active id='-1' />
       <simple-id uuid='{CEBEE220-EB51-48E2-A422-C4345752A5A5}' />
@@ -4934,38 +4951,9 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
       <viewpoints>
         <viewpoint name='Canada house price heatmap'>
           <zoom type='entire-view' />
-          <selection-collection>
-            <tuple-selection>
-              <tuple-reference>
-                <tuple-descriptor>
-                  <pane-descriptor>
-                    <x-fields>
-                      <field>[federated.0eismck03cozic1b9iqkf0pi9nj4].[yr:Date (real!estate!prices!All!Years):ok]</field>
-                    </x-fields>
-                    <y-fields>
-                      <field>[federated.0eismck03cozic1b9iqkf0pi9nj4].[none:Province:nk]</field>
-                      <field>[federated.0eismck03cozic1b9iqkf0pi9nj4].[none:Region2:nk]</field>
-                    </y-fields>
-                  </pane-descriptor>
-                  <columns>
-                    <field>[federated.0eismck03cozic1b9iqkf0pi9nj4].[avg:Composite_Benchmark (real!estate!prices!All!Years):qk]</field>
-                    <field>[federated.0eismck03cozic1b9iqkf0pi9nj4].[none:Province:nk]</field>
-                    <field>[federated.0eismck03cozic1b9iqkf0pi9nj4].[none:Region2:nk]</field>
-                    <field>[federated.0eismck03cozic1b9iqkf0pi9nj4].[yr:Date (real!estate!prices!All!Years):ok]</field>
-                  </columns>
-                </tuple-descriptor>
-                <tuple>
-                  <value>166016.66666666666</value>
-                  <value>&quot;NB&quot;</value>
-                  <value>&quot;Greater Moncton&quot;</value>
-                  <value>2016</value>
-                </tuple>
-              </tuple-reference>
-            </tuple-selection>
-          </selection-collection>
         </viewpoint>
       </viewpoints>
-      <active id='-1' />
+      <active id='6' />
       <simple-id uuid='{086F2699-5B15-4D9A-B3D2-AAD4756A2A77}' />
     </window>
     <window class='dashboard' name='HPI Dashboard'>
@@ -5226,7 +5214,7 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='4' />
+      <active id='-1' />
       <simple-id uuid='{31746071-4070-418F-9EFB-EB4C2A64FBF6}' />
     </window>
     <window class='worksheet' name='Consumer Price Index'>
@@ -5267,7 +5255,7 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='4' />
+      <active id='-1' />
       <simple-id uuid='{BB9E416A-F348-49A0-B26E-428248AFE044}' />
     </window>
     <window class='worksheet' name='CPI v HPI'>
@@ -5306,10 +5294,10 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='4' />
+      <active id='-1' />
       <simple-id uuid='{05A3D952-D0F4-4F21-921B-DBE9628A0770}' />
     </window>
-    <window class='dashboard' name='Costs and Trends in Canadian Home Ownership'>
+    <window class='dashboard' maximized='true' name='Costs and Trends in Canadian Home Ownership'>
       <viewpoints />
       <active id='-1' />
       <simple-id uuid='{CDE10829-C8D5-4399-8B77-55D9AA82AB4A}' />
@@ -6485,163 +6473,80 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
     </thumbnail>
     <thumbnail height='192' name='Costs and Trends in Canadian Home Ownership' width='192'>
       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
-      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
+      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
+      QmkSgFDafwAYxW194clnfQAAAABJRU5ErkJggg==
     </thumbnail>
     <thumbnail height='192' name='DB Cdn earning and HPI' width='192'>
       iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
@@ -9012,66 +8917,69 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
     </thumbnail>
     <thumbnail height='192' name='National HPI trend' width='192'>
       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
-      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
+      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
     </thumbnail>
     <thumbnail height='192' name='Office Price Index' width='192'>
       iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
@@ -9277,33 +9185,31 @@ The former group, on the lower left, increases dramatically 2009-2013, then drop
     </thumbnail>
     <thumbnail height='192' name='Title Page' width='192'>
       iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
-      AAAFgklEQVR4nO3YXW/TSACF4WM7ifOlpF8pJQTSIlopiP/ff8EVd0ChVBRI2iZQGjvY8ewF
-      ohLSLhKwWrQ673OVxKPxyPIrjxOFEIIAU/GfXgDwJ9W+feBBAEffBXB8fPwn1wL859gCwRoB
-      wBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoB
-      wBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoB
-      wBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoB
-      wBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoB
-      wBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoB
-      wBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoB
-      wBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoB4H8h
-      iiJFUfSvzRfHsaIoUu1fmxE2oijS4eGher2ePnz4oLOzs38cW6vVtLW1pel0+lvnHA6HKopC
-      0+lU+/v72traUhzHyvNcz549++n5xuOx5vM5AeDnjUYjhRD09OlTJUmier2ug4MDFUWh09NT
-      9ft97e7uarFYKE1T3b9/X81mU+/fv9d4PFZVVXr16pWqqlK73dZoNFJZlnr9+rW2t7fVbDbV
-      brd1cnKiKIo0Ho/V6/X09u1bSdKbN290c3Ojzc1NvXjxQv1+X3Ecq9vt6t27d9rf31dZljo9
-      PdWdO3eUpqnSNNXLly/VaDQ0Go20ubmpxWLBFgg/b2NjQ+fn56qqSkVR6OjoSPP5XFEU6d69
-      ezo6OtLFxYWyLNOnT5+0XC41m800HA4lSVdXV9/NN5vN1O12tbOzo729PZVlqRCCtre3NZlM
-      tFgs9PHjx9vxVVWpqiqFEFRVlTY2NjSZTJTnuR4+fKjr62vVajXt7u5qOBxquVyq0Wio1+vp
-      8ePHury81OfPnyXxDoBfsFqt1Ol0br+naar5fK7Ly0u12209f/5cw+FQDx480Gq1UlEUyrJM
-      5+fniuNYh4eHqtfrkqTBYKC9vT1FUaQkSSRJ8/lcy+VSURQpTVPNZjOtVqsfrunk5ESz2Uyt
-      VkuDwUD1ev02lMVioSzLFMexkiTR1dWVvnz5IokA8AvOzs50cHCgyWSi8Xisi4sLTSYTPXr0
-      SNPpVIPBQDc3N0rTVEVRqN/vazwea2dnR+v1WiEE1Wpfd9/tdlshBDUajb891/X1tZ48eaK7
-      d+/+cE1VVUmSptOp6vW61uv17W/fhBCU57kmk4kGg8HXF+sQQvg2wfHx8W9fHHhIkkStVktZ
-      lmm9XqvT6Wi9XivPc9XrdbVaLS2XS5VlqTRNlSSJsixTp9NRWZbK81zS139jOp2O8jxXVVWK
-      41hFUShJEoUQFEJQt9vVarVSWZa3N3Ucx4rjWGVZ3o79dqzZbCqOY2VZplqtpqIoVKvVbo93
-      Op3bJxMBwBpbIFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgj
-      AFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgj
-      AFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgjAFgj
-      AFgjAFgjAFj7C3UPeFCxkXqvAAAAAElFTkSuQmCC
+      AAAFIElEQVR4nO3Xf2sTSQCH8e80281ma8qW1P6gRq1oK9HX37eioNjW4o+qSaNtss6mydwf
+      3oXzuDsOLJTj+3wgkA2b2WGZh50NKaUkwNTKbU8AuE3ZH194EMBR9ueDo6Oj25oHcCvYAsEa
+      AcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAa
+      AcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAa
+      AcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAa
+      AcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAa
+      AcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAa
+      AcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAa
+      AcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAcAaAeB/
+      K4SgEMIvjZHd0FxgrtVq6fDwUGVZ6t27d/rw4cM/npvnubrdrobD4S9d8/79+7q8vNRoNNKj
+      R4+0sbGhEIImk4levHjxn8YgANyI/f395cLLskztdlv7+/uq61qnp6fa3NxUr9fTcDhUVVW6
+      e/euzs7O9OXLF/X7fV1fX+vk5EQpJXW7Xe3u7qppGp2enmpra0vtdltFUejNmzfKskz9fl9V
+      VWkymUiSTk5OVNe1yrLU8fGxqqqSJN25c0fn5+d6+PChmqbR27dvtbOzozzPlec5WyDcjKqq
+      9P79e6WUNJvNNBgM9PHjRxVFoZ2dHR0cHOj8/FwxRo3HY11dXf20+C8uLpZjpZT0+fNnbWxs
+      qKoq7e7uKsaoLMtUVZUGg4FGo5EuLy+X/1ksFj99er2enj59qrqu9fjxY43HY7XbbfV6Pe3t
+      7WkymagsSwLAzYgxqizL5fHq6qrG47FGo5E6nY5evXqlBw8eaG9vTzFGzWYzff/+XWdnZyqK
+      Qk+ePFGW/diQbG9va3t7WyEEZVmmlJIuLi5U1/Xyt+FwqBjjv87p9evXGg6H6nQ62traWo61
+      WCyW47EFwo04Pj7W8+fP9fXrV3379k2j0UjPnj1TWZZ6+fKl+v2+rq6utL6+rhijer2e7t27
+      pxCCmqZRCEGtVkuz2UxlWappGuV5/rfXmk6nGgwGWl9f/+kp8FeLxUKS9OnTJ21ubmo6nSql
+      pJTS8pyQfj9KKeno6Ogm7wnMZFmmoihU17Xm87m63a6aplGMUXmeqygKTSYTzedzFUWhEIJi
+      jFpbW1ueJ/14oe50Oooxaj6fL8NotVrLxbu2tqYYo66vr5cLfWVlRSEEzedzZVm23A5JUqfT
+      UQhB0+lUq6urms1myrKMAOCNdwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBY
+      IwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBY
+      IwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBY
+      IwBYIwBYIwBYIwBYIwBYIwBY+w3MV2BYOJiLGAAAAABJRU5ErkJggg==
     </thumbnail>
   </thumbnails>
 </workbook>
