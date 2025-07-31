@@ -59,5 +59,4 @@ Making some of the mentioned file transformations using Python on Excel sheets w
 ## Future Goals
 Given more time, my main goal would be to add interactivity to the charts where it makes sense to improve comprehension.
 
-[Link to Tableau Public]((https://public.tableau.com/views/FinalProjectTableau_17534797159890/CostsandTrendsinCanadianHomeOwnership?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-)
+[Link to Tableau Public](https://public.tableau.com/views/FinalProjectTableau_17534797159890/CostsandTrendsinCanadianHomeOwnership?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
